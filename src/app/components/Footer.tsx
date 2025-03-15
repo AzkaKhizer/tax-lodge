@@ -18,17 +18,6 @@ const fadeIn = (direction = "up", delay = 0) => ({
   },
 });
 
-const menuItems = [
-  "About Us",
-  "Our Services",
-  "Pricing Plan",
-  "Blog",
-  "Contact Us",
-  "Terms & Conditions",
-  "Privacy Policy",
-  "Refund Policy",
-];
-
 const Footer = () => {
   return (
     <footer className="bg-[#F2F2F2] border-t pt-10 mx-auto overflow-x-hidden">

@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 
 const fadeIn = (direction = "up", delay = 0) => ({
@@ -16,6 +17,17 @@ const fadeIn = (direction = "up", delay = 0) => ({
     transition: { duration: 0.6, delay }
   },
 });
+
+const menuItems = [
+  "About Us",
+  "Our Services",
+  "Pricing Plan",
+  "Blog",
+  "Contact Us",
+  "Terms & Conditions",
+  "Privacy Policy",
+  "Refund Policy",
+];
 
 const Footer = () => {
   return (
@@ -47,17 +59,17 @@ const Footer = () => {
             <h3 className="text-sm md:text-lg font-bold mb-2">Quick Links</h3>
             <ul className="text-sm md:text-sm space-y-1">
   {[
-    { name: "About Us", url: "/about" },
-    { name: "Our Services", url: "/servicedetails" },
+    { name: "About Us", url: "/About" },
+    { name: "Our Services", url: "/ServiceDetails" },
     { name: "Pricing Plan", url: "/pricing" },
     { name: "Blog", url: "/blog" },
-    { name: "Business Tax", url: "/businesstax" },
-    { name: "Online Tax Return", url: "/onlinetaxreturn" },
-    { name: "Pay Calculator", url: "/calculator" },
+    { name: "Business Tax", url: "/BusinessTax" },
+    { name: "Online Tax Return", url: "/OnlineTaxReturn" },
+    { name: "Pay Calculator", url: "/Calculator" },
     { name: "Terms & Conditions", url: "/termsandconditions" },
     { name: "Privacy Policy", url: "/privacypolicy" },
     { name: "Refund Policy", url: "/refund-policy" },
-    { name: "Contact Us", url: "/contactus" }
+    { name: "Contact Us", url: "/ContactUs" }
   ].map((link, index) => (
     <li key={index}>
       <a href={link.url} className="hover:text-[#FE5722] hover:underline transition-colors duration-300">
@@ -108,6 +120,64 @@ const Footer = () => {
           Copyright © 2025 Tax Lodge Online
         </motion.div>
       </div>
+      <div className="block md:hidden">
+  <div className="flex flex-col items-center justify-center  bg-gray-100 ">
+    <motion.img
+      src="/logo.png"
+      alt="Logo"
+      className="w-16 h-16 mb-4"
+      initial={{ opacity: 0, scale: 0.8 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.5 }}
+    />
+    <motion.h1
+      className="text-xl font-bold mb-4"
+      initial={{ opacity: 0, y: -20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.2 }}
+    >
+      Tax Lodge Online
+    </motion.h1>
+    <ul className="space-y-2 text-center">
+      {[
+        { name: "About Us", url: "/about" },
+        { name: "Our Services", url: "/servicedetails" },
+        { name: "Pricing Plan", url: "/pricing" },
+        { name: "Blog", url: "/blog" },
+        { name: "Contact Us", url: "/contactus" },
+        { name: "Terms & Conditions", url: "/termsandconditions" },
+        { name: "Privacy Policy", url: "/privacypolicy" },
+        { name: "Refund Policy", url: "/refund-policy" },
+      ].map((item, index) => (
+        <motion.li
+          key={item.name}
+          className="text-gray-800 text-sm cursor-pointer hover:text-[#FE5722] hover:underline transition-colors duration-300"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, amount: 0.5 }}
+          transition={{ duration: 0.4, delay: index * 0.1 }}
+        >
+          <Link href={item.url}>
+            {item.name}
+          </Link>
+        </motion.li>
+      ))}
+    </ul>
+    <motion.div
+      className="text-center text-[#A19C9C] w-full text-sm py-4 bg-white mt-5"
+      variants={fadeIn("up", 0.8)}
+      initial="hidden"
+      whileInView="show"
+      viewport={{ once: true }}
+    >
+      Copyright © 2025 Tax Lodge Online
+    </motion.div>
+  </div>
+</div>
+
+
+
+
     </footer>
   );
 };

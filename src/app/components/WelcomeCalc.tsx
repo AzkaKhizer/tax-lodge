@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const WelcomeSection = () => {
   return (
-    <div className="flex justify-center">
+    <div className="md:flex justify-center">
     <section className="flex flex-col md:flex-row items-center justify-between px-6 md:pl-10 2xl:mx-20 md:mr-20 py-12">
       {/* Left - Image */}
       <motion.div

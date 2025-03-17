@@ -663,26 +663,6 @@ img, video {
   margin-top: 2rem;
 }
 
-.ml-10 {
-  margin-left: 2.5rem;
-}
-
-.ml-20 {
-  margin-left: 5rem;
-}
-
-.ml-0 {
-  margin-left: 0;
-}
-
-.ml-40 {
-  margin-left: 10rem;
-}
-
-.ml-80 {
-  margin-left: 20rem;
-}
-
 .block {
   display: block;
 }
@@ -2833,12 +2813,12 @@ img, video {
     margin-right: 5rem;
   }
 
-  .\32 xl\:mt-5 {
-    margin-top: 1.25rem;
-  }
-
   .\32 xl\:ml-80 {
     margin-left: 20rem;
+  }
+
+  .\32 xl\:mt-5 {
+    margin-top: 1.25rem;
   }
 
   .\32 xl\:block {

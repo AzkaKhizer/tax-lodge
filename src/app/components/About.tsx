@@ -1,4 +1,4 @@
-"use client"; // Ensure animations work in Next.js App Router
+"use client"; 
 
 import React from "react";
 import Image from "next/image";
@@ -14,7 +14,7 @@ const About = () => {
           initial={{ opacity: 0, scale: 0.8 }}
           whileInView={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, ease: "easeOut" }}
-          viewport={{ once: true }} // Ensures animation runs only once per session
+          viewport={{ once: true }} 
         >
           <Image src="/teamwork.png" alt="pic" width={674} height={389} className="mt-52" />
         </motion.div>

@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ["var(--font-outfit)", "sans-serif"], // Set Outfit as default font
+      },
     },
   },
   plugins: [],

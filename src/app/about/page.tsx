@@ -18,7 +18,7 @@ export default function AboutUs() {
           If you would like to get in touch with us, please use the email address provided in the ‘Contact Us’ section to send us your message, and we will respond to your query.
         </p>
         <div className="border-t pt-4">
-          <h2 className="text-lg sm:text-xl lg:text-2xl font-semibold text-gray-800">Principal Accountant</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold text-gray-800">Principal Accountant</h2>
           <p className="text-gray-700 text-sm sm:text-base lg:text-lg">Murtaza Ali Haider – ABN 65 439 718 855</p>
         </div>
       </div>

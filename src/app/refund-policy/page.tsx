@@ -13,35 +13,35 @@ const RefundPolicy = () => {
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl md:text-3xl 2xl:text-5xl font-semibold mb-4 text-gray-800">Non-Lodgement</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold mb-4 text-gray-800">Non-Lodgement</h2>
           <p className="text-gray-700">
             If we fail to lodge your tax return due to our error or omission, we will refund your preparation fee in full.
           </p>
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl md:text-3xl 2xl:text-5xl font-semibold mb-4 text-gray-800">Dissatisfaction</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold mb-4 text-gray-800">Dissatisfaction</h2>
           <p className="text-gray-700">
             If you are dissatisfied with our tax return preparation services for any other reason, please contact us within 30 days of the completion of your tax return. We will review your concerns and, at our discretion, offer a refund or credit towards future services.
           </p>
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl md:text-3xl 2xl:text-5xl font-semibold mb-4 text-gray-800">Limitations</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold mb-4 text-gray-800">Limitations</h2>
           <p className="text-gray-700">
             Please note that we are not responsible for any errors or omissions resulting from incorrect or incomplete information provided by you. In addition, we are not responsible for any penalties or interest resulting from late payment or non-payment of taxes by you.
           </p>
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl md:text-3xl 2xl:text-5xl font-semibold mb-4 text-gray-800">Requesting a Refund</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold mb-4 text-gray-800">Requesting a Refund</h2>
           <p className="text-gray-700">
             To request a refund, please contact us at <a href="mailto:support@taxlodgeonline.com.au" className="text-blue-500 underline">support@taxlodgeonline.com.au</a>. We reserve the right to request additional information to verify your eligibility for a refund.
           </p>
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl md:text-3xl 2xl:text-5xl font-semibold mb-4 text-gray-800">Changes to this Refund Policy</h2>
+          <h2 className="text-xl md:text-2xl 2xl:text-3xl font-semibold mb-4 text-gray-800">Changes to this Refund Policy</h2>
           <p className="text-gray-700">
             We reserve the right to modify this refund policy at any time without prior notice. Any changes to this policy will be posted on our website and will be effective immediately upon posting.
           </p>

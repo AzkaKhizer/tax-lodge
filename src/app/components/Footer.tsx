@@ -48,17 +48,17 @@ const Footer = () => {
             <h3 className="text-sm md:text-lg font-bold mb-2">Quick Links</h3>
             <ul className="text-sm md:text-sm space-y-1">
   {[
-    { name: "About Us", url: "/About" },
-    { name: "Our Services", url: "/ServiceDetails" },
+    { name: "About Us", url: "/about" },
+    { name: "Our Services", url: "/servicedetails" },
     { name: "Pricing Plan", url: "/pricing" },
     { name: "Blog", url: "/blog" },
-    { name: "Business Tax", url: "/BusinessTax" },
-    { name: "Online Tax Return", url: "/OnlineTaxReturn" },
-    { name: "Pay Calculator", url: "/Calculator" },
+    { name: "Business Tax", url: "/businesstax" },
+    { name: "Online Tax Return", url: "/onlinetaxreturn" },
+    { name: "Pay Calculator", url: "/calculator" },
     { name: "Terms & Conditions", url: "/termsandconditions" },
     { name: "Privacy Policy", url: "/privacypolicy" },
     { name: "Refund Policy", url: "/refund-policy" },
-    { name: "Contact Us", url: "/ContactUs" }
+    { name: "Contact Us", url: "/contactus" }
   ].map((link, index) => (
     <li key={index}>
       <a href={link.url} className="hover:text-[#FE5722] hover:underline transition-colors duration-300">

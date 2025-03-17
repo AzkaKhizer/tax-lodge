@@ -28,7 +28,7 @@ const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-white md:bg-[#F2F2F2] absolute inset-x-0 top-0 z-50 px-2 py-8 pr-12 md:pr-10 md:px-6 md:py-7 mx-auto overflow-x-hidden ">
+    <header className="bg-white md:bg-[#F2F2F2]  absolute inset-x-0 top-0 z-50 px-2 py-8 pr-12 md:pr-10 md:px-6 md:py-7 mx-auto overflow-x-hidden ">
       <div className="flex justify-between md:justify-between items-center">
         {/* Logo */}
         <Link href="/">

@@ -355,238 +355,245 @@ const Hero = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "hidden md:block",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "bg-[#F2F2F2] flex items-center justify-center md:h-[650px] 2xl:h-[850px] ",
+                    className: "flex justify-center 2xl:ml-80",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "w-full mx-auto flex justify-center items-center px-2 ",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                initial: {
-                                    opacity: 0,
-                                    y: 30
-                                },
-                                animate: {
-                                    opacity: 1,
-                                    y: 0
-                                },
-                                transition: {
-                                    duration: 1
-                                },
-                                className: "md:max-w-[750px] 2xl:max-w-[1200px] h-auto  md:ml-4 lg:ml-8",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h2, {
-                                        initial: {
-                                            opacity: 0,
-                                            y: 20
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            y: 0
-                                        },
-                                        transition: {
-                                            duration: 1.2,
-                                            delay: 0.2
-                                        },
-                                        className: " md:text-[20px] 2xl:text-[35px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit",
-                                        children: "SMART TAX SOLUTIONS FOR FINANCIAL SUCCESS"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 26,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h1, {
-                                        initial: {
-                                            opacity: 0,
-                                            x: -50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            x: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.4
-                                        },
-                                        className: "md:text-[44px] 2xl:text-6xl  font-bold mt-4 leading-tight",
-                                        children: "Effortless Tax Solutions & Trusted Financial Guidance."
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 34,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
-                                        initial: {
-                                            opacity: 0,
-                                            x: -50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            x: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.6
-                                        },
-                                        className: "md:text-[18px] 2xl:text-[22px] mt-6",
-                                        children: "We provide expert tax and accounting services designed to make tax lodgment stress-free, ensuring individuals and businesses stay compliant while maximizing their financial benefits."
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 42,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].button, {
-                                        initial: {
-                                            opacity: 0,
-                                            scale: 0.8
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            scale: 1
-                                        },
-                                        transition: {
-                                            duration: 0.5,
-                                            delay: 0.8
-                                        },
-                                        whileHover: {
-                                            scale: 1.1
-                                        },
-                                        className: "bg-[#FE5722] hover:scale-105 md:text-lg 2xl:text-[30px] mt-6 text-white font-semibold md:py-3 md:px-8 2xl:py-8 2xl:px-12  rounded-[10px] hover:bg-orange-300 hover:text-[#FE5722] transition duration-300",
-                                        children: "GET STARTED"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 52,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/app/components/Hero.tsx",
-                                lineNumber: 20,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "relative h-full w-full",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                        initial: {
-                                            opacity: 0,
-                                            y: 50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            y: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.7
-                                        },
-                                        className: "relative object-cover    w-[650px] h-[750px]    md:w-[650px] md:h-[750px]    2xl:w-[950px] 2xl:h-[1050px]    bg-no-repeat    md:bg-[position:70px_150px]    2xl:bg-[position:180px_150px]    translate-y-[50px]" // ✅ Tailwind handles translation!
-                                        ,
-                                        style: {
-                                            backgroundImage: "url('/background.png')"
-                                        },
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                            src: "/man.png",
-                                            alt: "hero person",
-                                            width: 950,
-                                            height: 1050,
-                                            className: "transition-transform duration-300    md:w-[520px] md:h-[530px]    2xl:w-[740px] 2xl:h-[780px]    translate-y-[250px] translate-x-[40px]" // ✅ Tailwind handles the man’s position
+                        className: "bg-[#F2F2F2] flex items-center justify-center md:h-[650px] 2xl:h-[850px] ",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "w-full mx-auto flex justify-center items-center px-2 ",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                                    initial: {
+                                        opacity: 0,
+                                        y: 30
+                                    },
+                                    animate: {
+                                        opacity: 1,
+                                        y: 0
+                                    },
+                                    transition: {
+                                        duration: 1
+                                    },
+                                    className: "md:max-w-[750px] 2xl:max-w-[1200px] h-auto  md:ml-4 lg:ml-8",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h2, {
+                                            initial: {
+                                                opacity: 0,
+                                                y: 20
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                y: 0
+                                            },
+                                            transition: {
+                                                duration: 1.2,
+                                                delay: 0.2
+                                            },
+                                            className: " md:text-[20px] 2xl:text-[35px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit",
+                                            children: "SMART TAX SOLUTIONS FOR FINANCIAL SUCCESS"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/Hero.tsx",
-                                            lineNumber: 82,
+                                            lineNumber: 27,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h1, {
+                                            initial: {
+                                                opacity: 0,
+                                                x: -50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                x: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.4
+                                            },
+                                            className: "md:text-[44px] 2xl:text-6xl  font-bold mt-4 leading-tight",
+                                            children: "Effortless Tax Solutions & Trusted Financial Guidance."
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 35,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
+                                            initial: {
+                                                opacity: 0,
+                                                x: -50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                x: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.6
+                                            },
+                                            className: "md:text-[18px] 2xl:text-[22px] mt-6",
+                                            children: "We provide expert tax and accounting services designed to make tax lodgment stress-free, ensuring individuals and businesses stay compliant while maximizing their financial benefits."
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 43,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].button, {
+                                            initial: {
+                                                opacity: 0,
+                                                scale: 0.8
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                scale: 1
+                                            },
+                                            transition: {
+                                                duration: 0.5,
+                                                delay: 0.8
+                                            },
+                                            whileHover: {
+                                                scale: 1.1
+                                            },
+                                            className: "bg-[#FE5722] hover:scale-105 md:text-lg 2xl:text-[30px] mt-6 text-white font-semibold md:py-3 md:px-8 2xl:py-8 2xl:px-12  rounded-[10px] hover:bg-orange-300 hover:text-[#FE5722] transition duration-300",
+                                            children: "GET STARTED"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 13
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/app/components/Hero.tsx",
+                                    lineNumber: 21,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "relative h-full w-full",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                                            initial: {
+                                                opacity: 0,
+                                                y: 50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                y: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.7
+                                            },
+                                            className: "relative object-cover    w-[650px] h-[750px]    md:w-[650px] md:h-[750px]    2xl:w-[950px] 2xl:h-[1050px]    bg-no-repeat    md:bg-[position:70px_150px]    2xl:bg-[position:180px_150px]    translate-y-[50px]" // ✅ Tailwind handles translation!
+                                            ,
+                                            style: {
+                                                backgroundImage: "url('/background.png')"
+                                            },
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                src: "/man.png",
+                                                alt: "hero person",
+                                                width: 950,
+                                                height: 1050,
+                                                className: "transition-transform duration-300    md:w-[520px] md:h-[530px]    2xl:w-[740px] 2xl:h-[780px]    translate-y-[250px] translate-x-[40px]" // ✅ Tailwind handles the man’s position
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/components/Hero.tsx",
+                                                lineNumber: 83,
+                                                columnNumber: 3
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 69,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                                            initial: {
+                                                opacity: 0,
+                                                x: 50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                x: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.8
+                                            },
+                                            className: "absolute md:left-[80px] md:top-[220px] 2xl:top-[250px] 2xl:left-[100px]",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$savescard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                                fileName: "[project]/src/app/components/Hero.tsx",
+                                                lineNumber: 106,
+                                                columnNumber: 5
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 100,
+                                            columnNumber: 1
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                                            initial: {
+                                                opacity: 0,
+                                                x: 50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                x: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.8
+                                            },
+                                            className: "absolute md:left-[-50px] md:top-[540px] 2xl:top-[750px] 2xl:left-[-80px]",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$clientCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                                fileName: "[project]/src/app/components/Hero.tsx",
+                                                lineNumber: 115,
+                                                columnNumber: 5
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 109,
+                                            columnNumber: 3
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                                            initial: {
+                                                opacity: 0,
+                                                x: 50
+                                            },
+                                            animate: {
+                                                opacity: 1,
+                                                x: 0
+                                            },
+                                            transition: {
+                                                duration: 1,
+                                                delay: 0.8
+                                            },
+                                            className: "absolute 2xl:block md:left-[420px] md:top-[390px] 2xl:top-[430px] 2xl:left-[550px]",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$dollarCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                                fileName: "[project]/src/app/components/Hero.tsx",
+                                                lineNumber: 124,
+                                                columnNumber: 5
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/Hero.tsx",
+                                            lineNumber: 118,
                                             columnNumber: 3
                                         }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 68,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                        initial: {
-                                            opacity: 0,
-                                            x: 50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            x: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.8
-                                        },
-                                        className: "absolute md:left-[80px] md:top-[220px] 2xl:top-[250px] 2xl:left-[100px]",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$savescard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                            fileName: "[project]/src/app/components/Hero.tsx",
-                                            lineNumber: 105,
-                                            columnNumber: 5
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 99,
-                                        columnNumber: 1
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                        initial: {
-                                            opacity: 0,
-                                            x: 50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            x: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.8
-                                        },
-                                        className: "absolute md:left-[-50px] md:top-[540px] 2xl:top-[750px] 2xl:left-[-80px]",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$clientCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                            fileName: "[project]/src/app/components/Hero.tsx",
-                                            lineNumber: 114,
-                                            columnNumber: 5
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 108,
-                                        columnNumber: 3
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                        initial: {
-                                            opacity: 0,
-                                            x: 50
-                                        },
-                                        animate: {
-                                            opacity: 1,
-                                            x: 0
-                                        },
-                                        transition: {
-                                            duration: 1,
-                                            delay: 0.8
-                                        },
-                                        className: "absolute 2xl:block md:left-[420px] md:top-[390px] 2xl:top-[430px] 2xl:left-[550px]",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$dollarCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                            fileName: "[project]/src/app/components/Hero.tsx",
-                                            lineNumber: 123,
-                                            columnNumber: 5
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/components/Hero.tsx",
-                                        lineNumber: 117,
-                                        columnNumber: 3
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/app/components/Hero.tsx",
-                                lineNumber: 67,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/app/components/Hero.tsx",
+                                    lineNumber: 68,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/app/components/Hero.tsx",
+                            lineNumber: 19,
+                            columnNumber: 9
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/src/app/components/Hero.tsx",
                         lineNumber: 18,
-                        columnNumber: 9
+                        columnNumber: 7
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/components/Hero.tsx",
                     lineNumber: 17,
-                    columnNumber: 7
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/components/Hero.tsx",
@@ -623,13 +630,13 @@ const Hero = ()=>{
                                     children: "Tax Lodge Online"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Hero.tsx",
-                                    lineNumber: 142,
+                                    lineNumber: 143,
                                     columnNumber: 18
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/Hero.tsx",
-                            lineNumber: 141,
+                            lineNumber: 142,
                             columnNumber: 5
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -647,23 +654,23 @@ const Hero = ()=>{
                                 className: "w-full h-auto object-contain mt-4"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Hero.tsx",
-                                lineNumber: 148,
+                                lineNumber: 149,
                                 columnNumber: 7
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/Hero.tsx",
-                            lineNumber: 144,
+                            lineNumber: 145,
                             columnNumber: 5
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/components/Hero.tsx",
-                    lineNumber: 134,
+                    lineNumber: 135,
                     columnNumber: 3
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/components/Hero.tsx",
-                lineNumber: 133,
+                lineNumber: 134,
                 columnNumber: 7
             }, this)
         ]
@@ -700,7 +707,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$mo
 ;
 const About = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flex md:justify-evenly items-center md:ml-20",
+        className: "flex justify-center items-center md:ml-20",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "relative hidden md:block",

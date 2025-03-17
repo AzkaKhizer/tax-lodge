@@ -14,6 +14,7 @@ const Hero = () => {
     
     <div className=" md:pt-10  md:mb-20  ">
       <div className="hidden md:block">
+        <div className="flex justify-center 2xl:ml-80">
       <div className="bg-[#F2F2F2] flex items-center justify-center md:h-[650px] 2xl:h-[850px] ">
         <div className="w-full mx-auto flex justify-center items-center px-2 ">
           {/* Left Text Section */}
@@ -127,7 +128,7 @@ const Hero = () => {
       </div>
       </div>
       </div>
-      
+      </div>
     
       {/* Mobile View */}
       <div className="block md:hidden bg-white">

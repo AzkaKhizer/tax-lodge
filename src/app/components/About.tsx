@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 const About = () => {
   return (
-    <div className="flex md:justify-evenly items-center md:ml-20">
+    <div className="flex justify-center items-center md:ml-20">
       {/* Image Section */}
       <div className="relative hidden md:block">
         <motion.div

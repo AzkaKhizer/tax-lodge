@@ -28,7 +28,7 @@ const Hero = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1.2, delay: 0.2 }}
-              className=" md:text-[20px] 2xl:text-[35px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit"
+              className=" md:text-[20px] 2xl:text-[22px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit"
             >
               SMART TAX SOLUTIONS FOR FINANCIAL SUCCESS
             </motion.h2>
@@ -55,7 +55,7 @@ const Hero = () => {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5, delay: 0.8 }}
               whileHover={{ scale: 1.1 }}
-              className="bg-[#FE5722] hover:scale-105 md:text-lg 2xl:text-[30px] mt-6 text-white font-semibold md:py-3 md:px-8 2xl:py-8 2xl:px-12  rounded-[10px] hover:bg-orange-300 hover:text-[#FE5722] transition duration-300"
+              className="bg-[#FE5722] hover:scale-105 md:text-lg 2xl:text-[25px] mt-6 text-white font-semibold md:py-3 md:px-8 2xl:py-6 2xl:px-10  rounded-[10px] hover:bg-orange-300 hover:text-[#FE5722] transition duration-300"
             >
               GET STARTED
             </motion.button>

@@ -85,26 +85,9 @@ const Header = () => {
 
         {/* Search & CTA Button */}
         <div className="hidden md:flex items-center space-x-4">
-          {/* Search Input */}
-          <form
-            onSubmit={handleSearchSubmit}
-            className="flex items-center border border-gray-300 rounded-lg px-2 py-1"
-          >
-            <input
-              type="text"
-              placeholder="Search..."
-              value={query}
-              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-                setQuery(e.target.value)
-              }
-              className="bg-transparent focus:outline-none w-[150px]"
-            />
-            <button type="submit" className="text-orange-500 px-2">
-              🔍
-            </button>
-          </form>
+         
 
-          <div className="h-6 w-px bg-gray-400"></div>
+          
           <Link href="/get-started">
             <motion.button
               className="text-orange-500 hover:bg-orange-500 hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-orange-500"
@@ -136,26 +119,10 @@ const Header = () => {
 
           {/* Search & CTA in Mobile Menu */}
           <div className="flex items-center space-x-4 mt-4 ml-3">
-          <form
-            onSubmit={handleSearchSubmit}
-            className="flex items-center border border-gray-300 rounded-lg px-2 py-1"
-          >
-            <input
-              type="text"
-              placeholder="Search..."
-              value={query}
-              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-                setQuery(e.target.value)
-              }
-              className="bg-transparent focus:outline-none w-[150px]"
-            />
-            <button type="submit" className="text-orange-500 px-2">
-              🔍
-            </button>
-          </form>
-            <div className="h-6 w-px bg-gray-400"></div>
+         
+            
             <Link href="/get-started">
-              <button className="text-[#FE5722] text-sm font-bold ">
+              <button className="text-[#FE5722] font-bold ">
                 GET STARTED
               </button>
             </Link>

@@ -70,7 +70,7 @@ const ContactForm = () => {
       <div className="w-full 2xl:m-10">
         <motion.button
           whileHover={{ scale: 1.1 }}
-          className="bg-[#FF8B66] text-white text-sm md:text-lg 2xl:text-xl md:px-4 md:py-2 2xl:px-6 2xl:py-4 rounded-[10px] font-semibold"
+          className="bg-[#FF8B66] text-white text-sm md:text-lg 2xl:text-xl px-3 py-1 md:px-4 md:py-2 2xl:px-6 2xl:py-4 rounded-[10px] font-semibold"
         >
           CONTACT US
         </motion.button>

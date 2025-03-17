@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Search, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react"; // Removed 'Search' since it's unused
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 
@@ -94,7 +94,9 @@ const Header = () => {
               type="text"
               placeholder="Search..."
               value={query}
-              onChange={(e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)}
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                setQuery(e.target.value)
+              }
               className="bg-transparent focus:outline-none w-[150px]"
             />
             <button type="submit" className="text-orange-500 px-2">

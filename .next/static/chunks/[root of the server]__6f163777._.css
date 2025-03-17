@@ -203,7 +203,7 @@ html, :host {
   -webkit-text-size-adjust: 100%;
   -moz-tab-size: 4;
   tab-size: 4;
-  font-family: var(--font-outfit), sans-serif;
+  font-family: var(--font-outfit);
   font-feature-settings: normal;
   font-variation-settings: normal;
   -webkit-tap-highlight-color: transparent;
@@ -1354,13 +1354,13 @@ img, video {
   background-color: rgb(234 88 12 / var(--tw-bg-opacity, 1));
 }
 
+.bg-transparent {
+  background-color: #0000;
+}
+
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
-}
-
-.bg-transparent {
-  background-color: #0000;
 }
 
 .bg-opacity-50 {
@@ -1884,10 +1884,6 @@ img, video {
   transition-duration: .15s;
 }
 
-.duration-200 {
-  transition-duration: .2s;
-}
-
 .duration-300 {
   transition-duration: .3s;
 }
@@ -1898,6 +1894,10 @@ img, video {
 
 .ease-in-out {
   transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+}
+
+body {
+  font-family: var(--font-outfit);
 }
 
 .hover\:-translate-y-1:hover {
@@ -2905,22 +2905,6 @@ img, video {
     max-width: 1200px;
   }
 
-  .\32 xl\:max-w-\[1300px\] {
-    max-width: 1300px;
-  }
-
-  .\32 xl\:max-w-\[100px\] {
-    max-width: 100px;
-  }
-
-  .\32 xl\:max-w-\[1400px\] {
-    max-width: 1400px;
-  }
-
-  .\32 xl\:max-w-\[1800px\] {
-    max-width: 1800px;
-  }
-
   .\32 xl\:bg-\[position\:180px_150px\] {
     background-position: 180px 150px;
   }
@@ -2966,16 +2950,6 @@ img, video {
     padding-bottom: 1.5rem;
   }
 
-  .\32 xl\:py-8 {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
-
-  .\32 xl\:px-1 {
-    padding-left: .25rem;
-    padding-right: .25rem;
-  }
-
   .\32 xl\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
@@ -3003,12 +2977,8 @@ img, video {
     font-size: 22px;
   }
 
-  .\32 xl\:text-\[30px\] {
-    font-size: 30px;
-  }
-
-  .\32 xl\:text-\[35px\] {
-    font-size: 35px;
+  .\32 xl\:text-\[25px\] {
+    font-size: 25px;
   }
 
   .\32 xl\:text-\[42px\] {
@@ -3027,18 +2997,6 @@ img, video {
   .\32 xl\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
-  }
-
-  .\32 xl\:text-\[2px\] {
-    font-size: 2px;
-  }
-
-  .\32 xl\:text-\[25px\] {
-    font-size: 25px;
-  }
-
-  .\32 xl\:text-\[24px\] {
-    font-size: 24px;
   }
 }
 

@@ -13,7 +13,7 @@ export default {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        sans: ["var(--font-outfit)", "sans-serif"], // Set Outfit as default font
+        sans: ["var(--font-outfit)" ], 
       },
     },
   },

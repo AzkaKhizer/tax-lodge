@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Menu, X } from "lucide-react"; // Removed 'Search' since it's unused
+import { Menu, X, Search } from "lucide-react"; // Removed 'Search' since it's unused
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 
@@ -122,6 +122,30 @@ const Header = () => {
           {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
         </button>
       </div>
+
+      {/* Mobile Menu */}
+      {isOpen && (
+        <nav className="md:hidden mt-4 flex flex-col space-y-4 text-black">
+          <Link href="/" className="hover:text-[#FE5722] ml-3 ">Home</Link>
+          <Link href="/servicedetails" className="hover:text-[#FE5722] ml-3 ">Services</Link>
+          <Link href="/businesstax" className="hover:text-[#FE5722] ml-3 ">Business Tax</Link>
+          <Link href="/blog" className="hover:text-[#FE5722] ml-3 ">Blog</Link>
+          <Link href="/pricing" className="hover:text-[#FE5722] ml-3 ">Pricing</Link>
+          <Link href="/calculator" className="hover:text-[#FE5722] ml-3 ">Pay Calculator</Link>
+          <Link href="/contactus" className="hover:text-[#FE5722] ml-3 ">Contact</Link>
+
+          {/* Search & CTA in Mobile Menu */}
+          <div className="flex items-center space-x-4 mt-4 ml-3">
+            <Search className="w-5 h-5 text-black cursor-pointer" />
+            <div className="h-6 w-px bg-gray-400"></div>
+            <Link href="/get-started">
+              <button className="text-[#FE5722] font-bold ">
+                GET STARTED
+              </button>
+            </Link>
+          </div>
+        </nav>
+      )}
     </header>
   );
 };

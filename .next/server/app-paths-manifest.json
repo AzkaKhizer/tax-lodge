@@ -1,14 +1,9 @@
 {
-  "/about/page": "app/about/page.js",
   "/businesstax/page": "app/businesstax/page.js",
   "/calculator/page": "app/calculator/page.js",
   "/contactus/page": "app/contactus/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/onlinetaxreturn/page": "app/onlinetaxreturn/page.js",
   "/page": "app/page.js",
   "/pricing/page": "app/pricing/page.js",
-  "/privacypolicy/page": "app/privacypolicy/page.js",
-  "/refund-policy/page": "app/refund-policy/page.js",
-  "/servicedetails/page": "app/servicedetails/page.js",
-  "/termsandconditions/page": "app/termsandconditions/page.js"
+  "/servicedetails/page": "app/servicedetails/page.js"
 }

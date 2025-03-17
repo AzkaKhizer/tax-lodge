@@ -25,12 +25,15 @@ export default function TaxServices() {
      
       
     return (
-      <div className="flex">
+      <div className="flex ">
       <div>
+        <div className="md:w-[1000px]">
         <section className="mx-auto p-6 md:p-12 bg-white">
+
+          
           {/* Image */}
           <div className="overflow-hidden">
-            <Image src="/service.png" alt="Tax Consultation" width={500} height={300} className="w-full h-auto transition-transform duration-500 hover:scale-105" />
+            <Image src="/service.png" alt="Tax Consultation" width={500} height={300} className="w-full md:w-[820px] h-auto md:h-[490px] transition-transform duration-500 hover:scale-105" />
           </div>
     
           {/* Heading and Description */}
@@ -131,7 +134,9 @@ export default function TaxServices() {
             </p>
           </div>
         </div>
+        </div>
       </div>
+      
     
     
     

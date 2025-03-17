@@ -48,7 +48,7 @@ const HeroSection = () => {
           alt="Tax Solutions"
           width={500}
           height={300}
-          className="shadow-lg w-full hover:scale-105 transition-transform duration-300"
+          className="shadow-lg w-full "
         />
       </motion.div>
     </section>

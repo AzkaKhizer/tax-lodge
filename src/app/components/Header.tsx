@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Menu, X, Search } from "lucide-react"; // Removed 'Search' since it's unused
+import { Menu, X } from "lucide-react"; // Removed 'Search' since it's unused
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 
@@ -31,23 +31,7 @@ const navLinks = [
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const [query, setQuery] = useState("");
   const router = useRouter();
-
-  // Handle search functionality
-  const handleSearchSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    const foundLink = navLinks.find(
-      (link) => link.name.toLowerCase() === query.toLowerCase()
-    );
-
-    if (foundLink) {
-      router.push(foundLink.path);
-    } else {
-      alert("Page not found!");
-    }
-    setQuery("");
-  };
 
   return (
     <header className="bg-white md:bg-[#F2F2F2] absolute inset-x-0 top-0 z-50 px-2 py-8 pr-12 md:pr-10 md:px-6 md:py-7 mx-auto overflow-x-hidden">
@@ -83,11 +67,8 @@ const Header = () => {
           ))}
         </nav>
 
-        {/* Search & CTA Button */}
+        {/* CTA Button */}
         <div className="hidden md:flex items-center space-x-4">
-         
-
-          
           <Link href="/get-started">
             <motion.button
               className="text-orange-500 hover:bg-orange-500 hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-orange-500"
@@ -109,22 +90,20 @@ const Header = () => {
       {/* Mobile Menu */}
       {isOpen && (
         <nav className="md:hidden mt-4 flex flex-col space-y-4 text-black">
-          <Link href="/" className="hover:text-[#FE5722] ml-3 ">Home</Link>
-          <Link href="/servicedetails" className="hover:text-[#FE5722] ml-3 ">Services</Link>
-          <Link href="/businesstax" className="hover:text-[#FE5722] ml-3 ">Business Tax</Link>
-          <Link href="/blog" className="hover:text-[#FE5722] ml-3 ">Blog</Link>
-          <Link href="/pricing" className="hover:text-[#FE5722] ml-3 ">Pricing</Link>
-          <Link href="/calculator" className="hover:text-[#FE5722] ml-3 ">Pay Calculator</Link>
-          <Link href="/contactus" className="hover:text-[#FE5722] ml-3 ">Contact</Link>
+          {navLinks.map((link) => (
+            <Link
+              key={link.name}
+              href={link.path}
+              className="hover:text-[#FE5722] ml-3"
+            >
+              {link.name}
+            </Link>
+          ))}
 
-          {/* Search & CTA in Mobile Menu */}
+          {/* CTA in Mobile Menu */}
           <div className="flex items-center space-x-4 mt-4 ml-3">
-         
-            
             <Link href="/get-started">
-              <button className="text-[#FE5722] font-bold ">
-                GET STARTED
-              </button>
+              <button className="text-[#FE5722] font-bold">GET STARTED</button>
             </Link>
           </div>
         </nav>

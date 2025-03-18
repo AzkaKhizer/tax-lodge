@@ -3,9 +3,8 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Menu, X } from "lucide-react"; // Removed 'Search' since it's unused
+import { Menu, X } from "lucide-react";
 import { motion } from "framer-motion";
-import { useRouter } from "next/navigation";
 
 // Animation variants
 const linkVariants = {
@@ -31,7 +30,6 @@ const navLinks = [
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const router = useRouter();
 
   return (
     <header className="bg-white md:bg-[#F2F2F2] absolute inset-x-0 top-0 z-50 px-2 py-8 pr-12 md:pr-10 md:px-6 md:py-7 mx-auto overflow-x-hidden">

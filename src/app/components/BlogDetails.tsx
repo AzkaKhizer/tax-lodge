@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { Search, Send } from "lucide-react";
+import { Send } from "lucide-react";
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
 
 export default function BlogPg() {
@@ -107,8 +107,8 @@ export default function BlogPg() {
           >
             <h2 className="text-sm font-semibold mb-2">Authors</h2>
             <div className="flex items-center gap-2">
-              <img src="/author2.png" alt="Author 1" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
-              <img src="/author1.png" alt="Author 2" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
+              <Image src="/author2.png" alt="Author 1" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
+              <Image src="/author1.png" alt="Author 2" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
             </div>
           </motion.div>
 

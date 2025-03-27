@@ -113,7 +113,7 @@ export default function TaxArticle() {
         </motion.ul>
 
         <motion.p className='text-gray-700' variants={fadeIn}>
-          Ready to lodge your tax return? Click the "Get Started" button and let an IPA Certified Tax Accountant handle the process for you.
+        You should always &quot;double-check&quot; your tax details before submission.
         </motion.p>
 
         <motion.button
@@ -161,8 +161,8 @@ export default function TaxArticle() {
                 >
                   <h2 className="text-sm font-semibold mb-2">Authors</h2>
                   <div className="flex items-center gap-2">
-                    <img src="/author2.png" alt="Author 1" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
-                    <img src="/author1.png" alt="Author 2" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
+                    <Image src="/author2.png" alt="Author 1" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
+                    <Image src="/author1.png" alt="Author 2" className="w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg" />
                   </div>
                 </motion.div>
       

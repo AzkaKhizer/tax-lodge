@@ -1,5 +1,10 @@
 {
+  "/blogdetail/page": "app/blogdetail/page.js",
+  "/businesstax/page": "app/businesstax/page.js",
+  "/calculator/page": "app/calculator/page.js",
   "/contactus/page": "app/contactus/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js"
+  "/onlinetaxreturn/page": "app/onlinetaxreturn/page.js",
+  "/page": "app/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/servicedetails/page": "app/servicedetails/page.js"
 }

@@ -14,21 +14,21 @@ const Hero = () => {
     
     <div className=" md:pt-10  md:mb-20  ">
       <div className="hidden md:block">
-        <div className="flex justify-center 2xl:ml-80">
-      <div className="bg-[#F2F2F2] flex items-center justify-center md:h-[650px] 2xl:h-[850px] ">
-        <div className="w-full mx-auto flex justify-center items-center px-2 ">
+        <div className="flex justify-center items-center  ">
+      <div className="bg-[#F2F2F2] flex items-center justify-center 2xl:ml-60 md:h-[650px] 2xl:h-[850px] ">
+        <div className="w-full flex justify-center items-center px-2 ">
           {/* Left Text Section */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="md:max-w-[750px] 2xl:max-w-[1200px] h-auto  md:ml-4 lg:ml-8"
+            className="w-full max-w-[800px]  lg:w-[1100px] 2xl:max-w-[1200px] h-auto   xl:pl-32 "
           >
             <motion.h2
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1.2, delay: 0.2 }}
-              className=" md:text-[20px] 2xl:text-[22px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit"
+              className=" md:text-[18px] 2xl:text-[22px] font-semibold text-white border border-[#FE5722] rounded-[8px] bg-[#FE5722] px-4 py-2 w-fit"
             >
               SMART TAX SOLUTIONS FOR FINANCIAL SUCCESS
             </motion.h2>
@@ -36,7 +36,7 @@ const Hero = () => {
               initial={{ opacity: 0, x: -50 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 1, delay: 0.4 }}
-              className="md:text-[44px] 2xl:text-6xl  font-bold mt-4 leading-tight"
+              className="md:text-[44px] 2xl:text-[44px]  font-bold mt-4 leading-tight"
             >
               Effortless Tax Solutions & Trusted Financial Guidance.
             </motion.h1>
@@ -44,7 +44,7 @@ const Hero = () => {
               initial={{ opacity: 0, x: -50 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
-              className="md:text-[18px] 2xl:text-[22px] mt-6"
+              className="md:text-[18px] 2xl:text-[22px] mt-6 text-gray-700"
             >
               We provide expert tax and accounting services designed to make tax lodgment
               stress-free, ensuring individuals and businesses stay compliant while maximizing
@@ -64,8 +64,8 @@ const Hero = () => {
           {/* Right Image Section */}
           
 
-            {/* Man Image - No Hover Effect */}
-            <div className="relative h-full w-full">
+            {/* Man Image */}
+            <div className="relative  h-full w-full">
             <motion.div
   initial={{ opacity: 0, y: 50 }}
   animate={{ opacity: 1, y: 0 }}
@@ -73,12 +73,13 @@ const Hero = () => {
   className="relative object-cover 
              w-[650px] h-[750px] 
              md:w-[650px] md:h-[750px] 
+            
              2xl:w-[950px] 2xl:h-[1050px] 
              bg-no-repeat 
              md:bg-[position:70px_150px] 
              2xl:bg-[position:180px_150px] 
-             translate-y-[50px]" // ✅ Tailwind handles translation!
-  style={{ backgroundImage: "url('/background.png')" }} // ✅ Only keeps the image URL inline
+             translate-y-[50px]" 
+  style={{ backgroundImage: "url('/background.png')" }} 
 >
   <Image
     src="/man.png"

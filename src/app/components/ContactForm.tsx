@@ -77,7 +77,7 @@ const ContactForm = () => {
         <h2 className="text-[32px] md:text-[38px] 2xl:text-[42px] font-bold mt-1 md:w-[578px]">
           Let&apos;s Talk About Your Taxes
         </h2>
-        <p className="text-gray-600 mt-2 text-sm md:text-lg 2xl:text-2xl">
+        <p className="text-gray-700 mt-2 text-sm md:text-lg 2xl:text-2xl">
           Your success starts with a conversation! We believe informed decisions lead to better financial outcomes. Our team is here to guide you through tax lodgment, accounting, and business advisory with clarity and confidence.
         </p>
 

@@ -14,7 +14,7 @@ export default function BusinessTaxSection() {
   };
 
   const textHover = {
-    hover: { color: "#FE5722", transition: { duration: 0.3 } },
+    hover: {  transition: { duration: 0.3 } },
   };
 
   return (
@@ -36,7 +36,7 @@ export default function BusinessTaxSection() {
         </motion.div>
         <div className="md:w-1/2">
           <motion.p
-            className="text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]"
+            className="text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]"
             whileHover="hover"
             variants={textHover}
           >
@@ -62,7 +62,7 @@ export default function BusinessTaxSection() {
         </motion.div>
         <div className="md:w-1/2">
           <motion.p
-            className="text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]"
+            className="text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]"
             whileHover="hover"
             variants={textHover}
           >
@@ -88,7 +88,7 @@ export default function BusinessTaxSection() {
         </motion.div>
         <div className="md:w-1/2">
           <motion.p
-            className="text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]"
+            className="text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]"
             whileHover="hover"
             variants={textHover}
           >
@@ -114,7 +114,7 @@ export default function BusinessTaxSection() {
         </motion.div>
         <div className="md:w-1/2">
           <motion.p
-            className="text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]"
+            className="text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]"
             whileHover="hover"
             variants={textHover}
           >

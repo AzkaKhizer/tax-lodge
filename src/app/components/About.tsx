@@ -64,7 +64,7 @@ const About = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
             viewport={{ once: true }}
-            className="text-[16px] md:w-[360px] mt-4"
+            className="text-[16px] md:w-[360px] mt-4 text-gray-700"
           >
             Our registered tax practitioners carefully review your submission for accuracy,
             compliance, and potential tax savings. Once verified, we lodge your tax return with

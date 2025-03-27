@@ -64,7 +64,7 @@ const navLinks = [
     },
     {
         name: "Blog",
-        path: "/blog"
+        path: "/blogdetail"
     },
     {
         name: "Pricing",
@@ -254,28 +254,10 @@ __turbopack_context__.s({
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/framer-motion/dist/es/render/components/motion/proxy.mjs [app-client] (ecmascript)");
 "use client";
 ;
 ;
 ;
-;
-const fadeIn = (direction = "up", delay = 0)=>({
-        hidden: {
-            opacity: 0,
-            y: direction === "up" ? 30 : direction === "down" ? -30 : 0,
-            x: direction === "left" ? 30 : direction === "right" ? -30 : 0
-        },
-        show: {
-            opacity: 1,
-            y: 0,
-            x: 0,
-            transition: {
-                duration: 0.6,
-                delay
-            }
-        }
-    });
 const Footer = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
         className: "bg-[#F2F2F2] border-t pt-10 mx-auto overflow-x-hidden",
@@ -283,18 +265,11 @@ const Footer = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "hidden md:block",
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "container mx-auto px-2 md:max-w-[1200px] flex flex-col md:flex-row justify-between items-start space-x-4 gap-10  text-[#1E1E1E]",
-                        initial: "hidden",
-                        whileInView: "show",
-                        viewport: {
-                            once: true,
-                            amount: 0.2
-                        },
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex items-start",
-                                variants: fadeIn("left", 0),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                         src: "/logo.png",
@@ -304,7 +279,7 @@ const Footer = ()=>{
                                         className: "lg:w-[75px] lg:h-[75px] hover:scale-105 transition-transform duration-300"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 34,
+                                        lineNumber: 16,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -315,7 +290,7 @@ const Footer = ()=>{
                                                 children: "Tax Lodge Online"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 36,
+                                                lineNumber: 18,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -323,114 +298,79 @@ const Footer = ()=>{
                                                 children: "Based in Melbourne, we provide expert tax lodgment and accounting services for individuals and businesses. As registered tax practitioners, we prioritize professionalism, security, and client trust. Contact us for stress-free tax solutions."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 37,
+                                                lineNumber: 19,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 35,
+                                        lineNumber: 17,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                lineNumber: 33,
+                                lineNumber: 15,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                variants: fadeIn("up", 0.2),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-sm md:text-lg font-bold mb-2",
                                         children: "Quick Links"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 48,
+                                        lineNumber: 30,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                         className: "text-sm md:text-sm space-y-1",
                                         children: [
-                                            {
-                                                name: "About Us",
-                                                url: "/about"
-                                            },
-                                            {
-                                                name: "Our Services",
-                                                url: "/servicedetails"
-                                            },
-                                            {
-                                                name: "Pricing Plan",
-                                                url: "/pricing"
-                                            },
-                                            {
-                                                name: "Blog",
-                                                url: "/blog"
-                                            },
-                                            {
-                                                name: "Business Tax",
-                                                url: "/businesstax"
-                                            },
-                                            {
-                                                name: "Online Tax Return",
-                                                url: "/onlinetaxreturn"
-                                            },
-                                            {
-                                                name: "Pay Calculator",
-                                                url: "/calculator"
-                                            },
-                                            {
-                                                name: "Terms & Conditions",
-                                                url: "/termsandconditions"
-                                            },
-                                            {
-                                                name: "Privacy Policy",
-                                                url: "/privacypolicy"
-                                            },
-                                            {
-                                                name: "Refund Policy",
-                                                url: "/refund-policy"
-                                            },
-                                            {
-                                                name: "Contact Us",
-                                                url: "/contactus"
-                                            }
+                                            "About Us",
+                                            "Our Services",
+                                            "Pricing Plan",
+                                            "Blog",
+                                            "Business Tax",
+                                            "Online Tax Return",
+                                            "Pay Calculator",
+                                            "Terms & Conditions",
+                                            "Privacy Policy",
+                                            "Refund Policy",
+                                            "Contact Us"
                                         ].map((link, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                    href: link.url,
+                                                    href: `/${link.replace(/\s+/g, '').toLowerCase()}`,
                                                     className: "hover:text-[#FE5722] hover:underline transition-colors duration-300",
-                                                    children: link.name
+                                                    children: link
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/Footer.tsx",
-                                                    lineNumber: 64,
-                                                    columnNumber: 7
+                                                    lineNumber: 34,
+                                                    columnNumber: 19
                                                 }, this)
                                             }, index, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 63,
-                                                columnNumber: 5
+                                                lineNumber: 33,
+                                                columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 49,
+                                        lineNumber: 31,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                lineNumber: 47,
+                                lineNumber: 29,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                                variants: fadeIn("up", 0.4),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-sm md:text-lg font-bold mb-2",
                                         children: "Tax Services"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 75,
+                                        lineNumber: 44,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -447,35 +387,34 @@ const Footer = ()=>{
                                                     children: service
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/Footer.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 47,
                                                     columnNumber: 33
                                                 }, this)
                                             }, index, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 78,
+                                                lineNumber: 47,
                                                 columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 45,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                lineNumber: 74,
+                                lineNumber: 43,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "pr-4",
-                                variants: fadeIn("right", 0.6),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-sm md:text-lg font-bold mb-2",
                                         children: "Contact Us"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 85,
+                                        lineNumber: 54,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -489,20 +428,20 @@ const Footer = ()=>{
                                                 className: "hover:scale-110 transition-transform duration-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 87,
+                                                lineNumber: 56,
                                                 columnNumber: 15
                                             }, this),
                                             "Level 2, 311 Lonsdale Street,",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 88,
+                                                lineNumber: 57,
                                                 columnNumber: 44
                                             }, this),
                                             "Dandenong, Victoria 3175, Australia"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 86,
+                                        lineNumber: 55,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -516,14 +455,14 @@ const Footer = ()=>{
                                                 className: "hover:scale-110 transition-transform duration-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 92,
+                                                lineNumber: 61,
                                                 columnNumber: 15
                                             }, this),
                                             "(03) 8904 8602"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 91,
+                                        lineNumber: 60,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -537,7 +476,7 @@ const Footer = ()=>{
                                                 className: "hover:scale-110 transition-transform duration-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 95,
+                                                lineNumber: 64,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -546,192 +485,117 @@ const Footer = ()=>{
                                                 children: "support@taxlodgeonline.com.au"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                                lineNumber: 96,
+                                                lineNumber: 65,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 94,
+                                        lineNumber: 63,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/Footer.tsx",
-                                lineNumber: 84,
+                                lineNumber: 53,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/Footer.tsx",
-                        lineNumber: 26,
+                        lineNumber: 11,
                         columnNumber: 9
                     }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-center text-[#A19C9C] text-sm py-4 bg-white mt-32",
-                        variants: fadeIn("up", 0.8),
-                        initial: "hidden",
-                        whileInView: "show",
-                        viewport: {
-                            once: true
-                        },
                         children: "Copyright © 2025 Tax Lodge Online"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/Footer.tsx",
-                        lineNumber: 102,
+                        lineNumber: 71,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/Footer.tsx",
-                lineNumber: 25,
+                lineNumber: 10,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "block md:hidden",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "flex flex-col items-center justify-center  bg-gray-100 ",
+                    className: "flex flex-col items-center justify-center bg-gray-100",
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].img, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                             src: "/logo.png",
                             alt: "Logo",
-                            className: "w-16 h-16 mb-4",
-                            initial: {
-                                opacity: 0,
-                                scale: 0.8
-                            },
-                            animate: {
-                                opacity: 1,
-                                scale: 1
-                            },
-                            transition: {
-                                duration: 0.5
-                            }
+                            className: "w-16 h-16 mb-4"
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/Footer.tsx",
-                            lineNumber: 114,
-                            columnNumber: 5
+                            lineNumber: 81,
+                            columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h1, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "text-xl font-bold mb-4",
-                            initial: {
-                                opacity: 0,
-                                y: -20
-                            },
-                            animate: {
-                                opacity: 1,
-                                y: 0
-                            },
-                            transition: {
-                                duration: 0.5,
-                                delay: 0.2
-                            },
                             children: "Tax Lodge Online"
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/Footer.tsx",
-                            lineNumber: 122,
-                            columnNumber: 5
+                            lineNumber: 82,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                             className: "space-y-2 text-center",
                             children: [
-                                {
-                                    name: "About Us",
-                                    url: "/about"
-                                },
-                                {
-                                    name: "Our Services",
-                                    url: "/servicedetails"
-                                },
-                                {
-                                    name: "Pricing Plan",
-                                    url: "/pricing"
-                                },
-                                {
-                                    name: "Blog",
-                                    url: "/blog"
-                                },
-                                {
-                                    name: "Contact Us",
-                                    url: "/contactus"
-                                },
-                                {
-                                    name: "Terms & Conditions",
-                                    url: "/termsandconditions"
-                                },
-                                {
-                                    name: "Privacy Policy",
-                                    url: "/privacypolicy"
-                                },
-                                {
-                                    name: "Refund Policy",
-                                    url: "/refund-policy"
-                                }
-                            ].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].li, {
+                                "About Us",
+                                "Our Services",
+                                "Pricing Plan",
+                                "Blog",
+                                "Contact Us",
+                                "Terms & Conditions",
+                                "Privacy Policy",
+                                "Refund Policy"
+                            ].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "text-gray-800 text-sm cursor-pointer hover:text-[#FE5722] hover:underline transition-colors duration-300",
-                                    initial: {
-                                        opacity: 0,
-                                        y: 20
-                                    },
-                                    whileInView: {
-                                        opacity: 1,
-                                        y: 0
-                                    },
-                                    viewport: {
-                                        once: true,
-                                        amount: 0.5
-                                    },
-                                    transition: {
-                                        duration: 0.4,
-                                        delay: index * 0.1
-                                    },
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: item.url,
-                                        children: item.name
+                                        href: `/${item.replace(/\s+/g, '').toLowerCase()}`,
+                                        children: item
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/Footer.tsx",
-                                        lineNumber: 149,
-                                        columnNumber: 11
+                                        lineNumber: 86,
+                                        columnNumber: 17
                                     }, this)
-                                }, item.name, false, {
+                                }, item, false, {
                                     fileName: "[project]/src/app/components/Footer.tsx",
-                                    lineNumber: 141,
-                                    columnNumber: 9
+                                    lineNumber: 85,
+                                    columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/Footer.tsx",
-                            lineNumber: 130,
-                            columnNumber: 5
+                            lineNumber: 83,
+                            columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-center text-[#A19C9C] w-full text-sm py-4 bg-white mt-5",
-                            variants: fadeIn("up", 0.8),
-                            initial: "hidden",
-                            whileInView: "show",
-                            viewport: {
-                                once: true
-                            },
                             children: "Copyright © 2025 Tax Lodge Online"
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/Footer.tsx",
-                            lineNumber: 155,
-                            columnNumber: 5
+                            lineNumber: 90,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/components/Footer.tsx",
-                    lineNumber: 113,
-                    columnNumber: 3
+                    lineNumber: 80,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/components/Footer.tsx",
-                lineNumber: 112,
+                lineNumber: 79,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/components/Footer.tsx",
-        lineNumber: 23,
+        lineNumber: 8,
         columnNumber: 5
     }, this);
 };

@@ -151,7 +151,6 @@ function BusinessTaxSection() {
     };
     const textHover = {
         hover: {
-            color: "#FE5722",
             transition: {
                 duration: 0.3
             }
@@ -192,7 +191,7 @@ function BusinessTaxSection() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:w-1/2",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
-                            className: "text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]",
+                            className: "text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]",
                             whileHover: "hover",
                             variants: textHover,
                             children: "Sole traders in Australia are required to lodge a tax return with the Australian Taxation Office (ATO) every year, even if their income is $0. Unlike companies, sole traders are taxed on their net business income, meaning they must report all earnings and deduct any business-related expenses to determine their taxable income. To help reduce tax liability, sole traders can claim various deductions, including costs related to rent, equipment, and travel. Proper tax planning and record-keeping are essential to maximize deductions and ensure compliance with ATO regulations. By accurately reporting income and expenses, sole traders can minimize tax obligations while staying within legal requirements."
@@ -244,7 +243,7 @@ function BusinessTaxSection() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:w-1/2",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
-                            className: "text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]",
+                            className: "text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]",
                             whileHover: "hover",
                             variants: textHover,
                             children: "Partnerships are a widely used business structure in Australia, where two or more individuals operate a business together with the intention of making a profit. Unlike sole traders, partnerships must lodge a separate tax return every year, detailing their income, deductions, expenses, and profit distribution among partners. However, the partnership itself does not pay tax; instead, each partner reports their share of the profits on their individual tax return. The Australian Taxation Office (ATO) mandates that partnership tax returns be submitted by October 31st for standard tax years. Given the ATO’s strict oversight, non-compliance can lead to penalties or fines. To avoid errors and ensure accurate reporting, seeking professional tax advice is highly recommended."
@@ -296,7 +295,7 @@ function BusinessTaxSection() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:w-1/2",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
-                            className: "text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]",
+                            className: "text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]",
                             whileHover: "hover",
                             variants: textHover,
                             children: "Filing your company tax return online with the Australian Taxation Office (ATO) is a fast, convenient, and stress-free solution for businesses. Our secure online portal allows you to submit your tax return anytime, from anywhere, eliminating the hassle of paper forms and long queues. Online lodgment ensures your business stays compliant with tax laws and regulations, helping you avoid penalties and fines. Additionally, you can maximize tax savings and deductions, while also receiving potential refunds much faster. With a reliable, user-friendly platform, managing your company’s tax obligations has never been easier."
@@ -348,7 +347,7 @@ function BusinessTaxSection() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:w-1/2",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
-                            className: "text-[#1E1E1E] text-[16px] md:text-[18px] 2xl:text-[20px]",
+                            className: "text-gray-700 text-[16px] md:text-[18px] 2xl:text-[20px]",
                             whileHover: "hover",
                             variants: textHover,
                             children: "A trust tax return is essential for maintaining compliance and ensuring tax efficiency. Trusts are widely used for wealth management, asset protection, and tax planning, offering a structured way to distribute income among beneficiaries. Since trusts are taxed separately from their beneficiaries, a tax return must be lodged annually to report income, deductions, expenses, and distributions. In most cases, trusts distribute all profits to beneficiaries to minimize tax liabilities and avoid the highest tax rates. Properly managing a trust tax return requires careful planning and expert guidance to ensure compliance with Australian Taxation Office (ATO) regulations."

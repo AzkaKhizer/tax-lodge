@@ -22,7 +22,7 @@ const navLinks = [
   { name: "Home", path: "/" },
   { name: "Services", path: "/servicedetails" },
   { name: "Business Tax", path: "/businesstax" },
-  { name: "Blog", path: "/blog" },
+  { name: "Blog", path: "/blogdetail" },
   { name: "Pricing", path: "/pricing" },
   { name: "Pay Calculator", path: "/calculator" },
   { name: "Contact", path: "/contactus" },

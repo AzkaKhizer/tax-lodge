@@ -103,7 +103,7 @@ const ContactForm = ()=>{
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-gray-600 mt-2 text-sm md:text-lg 2xl:text-2xl",
+                        className: "text-gray-700 mt-2 text-sm md:text-lg 2xl:text-2xl",
                         children: "Your success starts with a conversation! We believe informed decisions lead to better financial outcomes. Our team is here to guide you through tax lodgment, accounting, and business advisory with clarity and confidence."
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/ContactForm.tsx",

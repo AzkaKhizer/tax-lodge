@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Search, Send } from "lucide-react"; // For search & send icons
+import { Search, Send } from "lucide-react";
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
 import Link from "next/link";
 
@@ -39,7 +39,7 @@ export default function TaxServices() {
           {/* Heading and Description */}
           <div className="mt-6 animate-fade-in">
             <h2 className="text-2xl md:text-3xl font-semibold text-gray-900">Individual & Sole Trader Tax Returns</h2>
-            <p className="mt-4 text-gray-600 text-sm md:text-base">
+            <p className="mt-4 text-gray-700 text-sm md:text-base">
               We are a team of dedicated IPA Tax Accountants and financial experts committed to providing personalized,
               professional, and secure tax and financial services. Our goal is to simplify complex financial processes and
               ensure that individuals and businesses receive the best possible tax outcomes and strategic financial advice.
@@ -72,7 +72,7 @@ export default function TaxServices() {
           {/* Service Benefits */}
           <div className="mb-12 animate-fade-in">
             <h2 className="text-2xl md:text-[44px] font-bold text-gray-900">Our Service Benefits</h2>
-            <p className="mt-4 text-[#1E1E1E] text-sm md:text-[16px] leading-relaxed">
+            <p className="mt-4 text-gray-700 text-sm md:text-[16px] leading-relaxed">
               We are more than just a tax lodgment service—we are your trusted financial partner, committed to ensuring
               accuracy, compliance, and maximum tax savings. Our services are designed to be accessible and affordable,
               offering the lowest fees while maintaining high standards of expertise and accuracy. We understand that tax-related
@@ -87,7 +87,7 @@ export default function TaxServices() {
           {/* Why Choose Us */}
           <div className="mb-12 animate-slide-up">
             <h2 className="text-2xl md:text-[44px] font-bold text-gray-900">Why Choose Us?</h2>
-            <p className="mt-4 text-[#1E1E1E] text-sm md:text-[16px] leading-relaxed">
+            <p className="mt-4 text-gray-700 text-sm md:text-[16px] leading-relaxed">
               We provide expert-led tax and financial services designed to simplify the complexities of tax filing and financial
               planning. Our commitment to accuracy, security, and personalized solutions ensures that you receive the best
               possible financial outcomes with minimal effort.
@@ -112,7 +112,7 @@ export default function TaxServices() {
                     <div className="w-8 h-8 flex items-center justify-center bg-black rounded-full text-lg transition-all duration-300 hover:bg-gray-700">
                       <span className="text-white">&#10003;</span>
                     </div>
-                    <p className="text-[#1E1E1E] text-sm md:text-base">{benefit}</p>
+                    <p className="text-gray-700 text-sm md:text-base">{benefit}</p>
                   </li>
                 ))}
               </ul>
@@ -122,7 +122,7 @@ export default function TaxServices() {
           {/* What We Do */}
           <div className="animate-fade-in">
             <h2 className="text-2xl md:text-[44px] font-bold text-gray-900">What We Do</h2>
-            <p className="mt-4 text-[#1E1E1E] text-sm md:text-[16px] leading-relaxed">
+            <p className="mt-4 text-gray-700 text-sm md:text-[16px] leading-relaxed">
               We specialize in tax return preparation and lodgment for individuals and businesses, making the tax process
               seamless and stress-free. Our expertise extends beyond tax lodgment—we provide strategic financial advisory
               services to help businesses optimize capital structures, boost profitability, and ensure long-term growth. We also
@@ -190,9 +190,11 @@ export default function TaxServices() {
         {/* Contact Us Section */}
         <div className="mt-10 md:p-6 2xl:p-8 bg-white shadow-lg rounded-lg  h-[180px] text-center ">
           <p className=" font-medium text-[20px]  text-center">If You Need Any Help Contact With Us</p>
+          <Link href={"/contactus"}>
           <button className="mt-3 md:px-8 md:py-2 2xl:px-10 2xl:py-4 bg-[#FE5722] text-white rounded-full font-medium shadow-md hover:bg-orange-600 transition">
             Contact Us
           </button>
+          </Link>
         </div>
 
         {/* Social Media Icons */}

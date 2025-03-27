@@ -77,9 +77,11 @@ export default function BlogPg() {
             >
               <div>
                 <span className='text-sm'>{article.date}</span>
-                <Link href={article.link} className="text-lg font-semibold text-blue-600 hover:underline">
-  {article.title}
-</Link>
+                <Link href={article.link}>
+    <h3 className="text-lg font-semibold text-[#1E1E1E] hover:underline hover:text-orange-500 cursor-pointer">
+      {article.title}
+    </h3>
+  </Link>
                 <p className="text-gray-700 mt-2">{article.description}</p>
                 <span className="text-gray-500 text-sm">{article.readTime}</span>
               </div>

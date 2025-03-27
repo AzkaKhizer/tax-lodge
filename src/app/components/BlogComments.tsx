@@ -3,8 +3,15 @@ import Image from 'next/image';
 import { Send } from "lucide-react";
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
 
+type Comment = {
+  name: string;
+  date: string;
+  text: string;
+  avatar: string;
+};
+
 export default function CommentsSection() {
-  const [comments, setComments] = useState([
+  const [comments, setComments] = useState<Comment[]>([
     {
       name: 'Matthew Larson',
       date: '8 December 2025',
@@ -19,11 +26,11 @@ export default function CommentsSection() {
     },
   ]);
 
-  const [newComment, setNewComment] = useState('');
+  const [newComment, setNewComment] = useState<string>('');
 
   const handleAddComment = () => {
     if (newComment.trim() !== '') {
-      const newEntry = {
+      const newEntry: Comment = {
         name: 'You',
         date: new Date().toLocaleDateString(),
         text: newComment,
@@ -34,9 +41,8 @@ export default function CommentsSection() {
     }
   };
 
-  const handleDeleteComment = (index) => {
-    const updatedComments = comments.filter((_, i) => i !== index);
-    setComments(updatedComments);
+  const handleDeleteComment = (index: number) => {
+    setComments(comments.filter((_, i) => i !== index));
   };
 
   return (
@@ -68,7 +74,6 @@ export default function CommentsSection() {
           <div className='hidden md:block'>
             <div className="mt-3 flex justify-start items-center gap-3 mb-4 text-black">
               <span className="font-semibold">Share:</span>
-
               <div className='bg-orange-100 rounded-full p-2 hover:bg-orange-300 transition-all duration-300'>
                 <Send className="w-[20px] h-[20px] cursor-pointer hover:text-orange-600 transition" />
               </div>
@@ -84,7 +89,7 @@ export default function CommentsSection() {
       </div>
 
       {/* Comments Section */}
-      {comments.map((comment, index) => (
+      {comments.map((comment, index: number) => (
         <div
           key={index}
           className={`p-4 rounded-md shadow-md mb-4 transition-all duration-300 ${

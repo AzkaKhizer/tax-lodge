@@ -13,35 +13,40 @@ export default function BlogPg() {
       description: "Personal tax doesn’t have to be confusing. Learn how to lodge your tax return, claim deductions, and understand the key deadlines. This guide breaks down the essentials to help you manage your taxes with confidence and get the most out of your returns.",
       date: "March 20, 2025",
       readTime: "5 min read",
-      image: "/blogpic1.png"
+      image: "/blogpic1.png",
+      link: '/blog'
     },
     {
       title: "Reporting Income and Deductions in Partnerships",
       description: "Partnerships come with unique tax responsibilities. Discover how to report income, handle expenses, and distribute profits among partners. Understand the lodgment process and key dates to ensure smooth tax management for your partnership.",
       date: "March 20, 2025",
       readTime: "5 min read",
-      image: "/blogpic2.png"
+      image: "/blogpic2.png",
+      link: '/blog2'
     },
     {
       title: "Small Business Guide to Company Tax",
       description: "Running a company means staying on top of taxes. Explore how small businesses calculate taxable income, claim deductions, and meet deadlines. This guide simplifies the process, making company tax easier to navigate.",
       date: "March 20, 2025",
       readTime: "5 min read",
-      image: "/blogpic3.png"
+      image: "/blogpic3.png",
+      link: '/blog3'
     },
     {
       title: "Understanding GST Obligations for Businesses",
       description: "GST can be complex, but it doesn’t have to be overwhelming. Learn when to register, what transactions are taxable, and how to report correctly. Master the essentials of managing GST for your business with ease.",
       date: "March 20, 2025",
       readTime: "5 min read",
-      image: "/blogpic4.png"
+      image: "/blogpic4.png",
+      link: '/blog4'
     },
     {
       title: "Superannuation Contributions and Retirement Planning",
       description: "Superannuation is a vital part of planning for the future. Understand employer contributions, concessional caps, and how to grow your super. This guide breaks down the rules so you can take control of your retirement savings.",
       date: "March 20, 2025",
       readTime: "5 min read",
-      image: "/blogpic5.png"
+      image: "/blogpic5.png",
+      link: '/blog5'
     },
   ];
 
@@ -72,7 +77,9 @@ export default function BlogPg() {
             >
               <div>
                 <span className='text-sm'>{article.date}</span>
-                <h3 className="text-lg font-semibold">{article.title}</h3>
+                <Link href={article.link} className="text-lg font-semibold text-blue-600 hover:underline">
+  {article.title}
+</Link>
                 <p className="text-gray-700 mt-2">{article.description}</p>
                 <span className="text-gray-500 text-sm">{article.readTime}</span>
               </div>

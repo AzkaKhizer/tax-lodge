@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const LoginPage = () => {
   return (
-    <div className="min-h-screen bg-[#f2f2f2] flex items-center justify-center px-4 py-8">
+    <div className="min-h-screen bg-[#f2f2f2] flex items-center justify-center px-4 py-8 mt-32">
       <div className="bg-white shadow-xl rounded-2xl w-full max-w-5xl grid md:grid-cols-2 overflow-hidden">
         {/* Left Side - Image or welcome message */}
         <div className="hidden md:flex items-center justify-center bg-[#FE5722] p-8">

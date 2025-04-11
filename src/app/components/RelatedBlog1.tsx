@@ -36,7 +36,7 @@ const RelatedBlogs = () => {
   return (
     <div className="p-4 bg-white border shadow-lg rounded-lg mt-8">
       <h2 className="font-semibold text-lg mb-3">All Related Blogs</h2>
-      <div className="space-y-3 md:w-[400px]">
+      <div className="space-y-3 md:w-[350px]">
         {blogs.map((blog) => (
           <Link key={blog.id} href={blog.link} className="block hover:bg-gray-100 transition rounded-lg p-2">
             <div className="md:flex md:items-start gap-3">

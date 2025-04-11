@@ -27,31 +27,32 @@ const Footer = () => {
 
           {/* Quick Links */}
           <div>
-            <h3 className="text-sm md:text-lg font-bold mb-2">Quick Links</h3>
-            <ul className="text-sm md:text-sm space-y-1">
-              {["About Us", "Our Services", "Pricing Plan", "Blog", "Business Tax", "Online Tax Return", "Pay Calculator", "Terms & Conditions", "Privacy Policy", "Refund Policy", "Contact Us"].map((link) => (
-                <li key={link}>
-                  <Link href={`/${link.replace(/\s+/g, '').toLowerCase()}`} className="hover:text-[#FE5722] hover:underline transition-colors duration-300">
-                    {link}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+  <h3 className="text-sm md:text-lg font-bold mb-2">Quick Links</h3>
+  <ul className="text-sm md:text-sm space-y-1">
+    <li><Link href="/about" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">About Us</Link></li>
+    <li><Link href="/servicedetails" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Our Services</Link></li>
+    <li><Link href="/pricing" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Pricing Plan</Link></li>
+    <li><Link href="/blogdetail" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Blog</Link></li>
+    <li><Link href="/businesstax" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Business Tax</Link></li>
+    <li><Link href="/onlinetaxreturn" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Online Tax Return</Link></li>
+    <li><Link href="/calculator" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Pay Calculator</Link></li>
+    <li><Link href="/termsandconditions" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Terms & Conditions</Link></li>
+    <li><Link href="/privacypolicy" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Privacy Policy</Link></li>
+    <li><Link href="/refund-policy" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Refund Policy</Link></li>
+    <li><Link href="/contactus" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Contact Us</Link></li>
+  </ul>
+</div>
 
-          {/* Tax Services */}
-          <div>
-            <h3 className="text-sm md:text-lg font-bold mb-2">Tax Services</h3>
-            <ul className="text-sm md:text-sm space-y-1">
-              {["Online Tax Return", "Personal Income Tax Return", "Australian Tax Back Form", "Sole Trader Tax Return Form"].map((service) => (
-                <li key={service}>
-                  <a href="#" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">
-                    {service}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
+{/* Tax Services */}
+<div>
+  <h3 className="text-sm md:text-lg font-bold mb-2">Tax Services</h3>
+  <ul className="text-sm md:text-sm space-y-1">
+    <li><Link href="/online-tax-return" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Online Tax Return</Link></li>
+    <li><Link href="/personal-income-tax-return" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Personal Income Tax Return</Link></li>
+    <li><Link href="/tax-form" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Australian Tax Back Form</Link></li>
+    <li><Link href="/sole-trader-tax-return-form" className="hover:text-[#FE5722] hover:underline transition-colors duration-300">Sole Trader Tax Return Form</Link></li>
+  </ul>
+</div>
 
           {/* Contact Section */}
           <div className="pr-4">
@@ -84,12 +85,25 @@ const Footer = () => {
           <Image src="/logo.png" alt="Logo" width={64} height={64} className="mb-4" />
           <h1 className="text-xl font-bold mb-4">Tax Lodge Online</h1>
           <ul className="space-y-2 text-center">
-            {["About Us", "Our Services", "Pricing Plan", "Blog", "Contact Us", "Terms & Conditions", "Privacy Policy", "Refund Policy"].map((item) => (
-              <li key={item} className="text-gray-800 text-sm cursor-pointer hover:text-[#FE5722] hover:underline transition-colors duration-300">
-                <Link href={`/${item.replace(/\s+/g, '').toLowerCase()}`}>{item}</Link>
-              </li>
-            ))}
-          </ul>
+      {[
+        { label: "About Us", href: "/about" },
+        { label: "Our Services", href: "/servicedetails" },
+        { label: "Pricing Plan", href: "/pricing" },
+        { label: "Blog", href: "/blogdetail" },
+        { label: "Contact Us", href: "/contactus" },
+        { label: "Terms & Conditions", href: "/termsandconditions" },
+        { label: "Pay Calculator", href: "/calculator" },
+        { label: "Privacy Policy", href: "/privacypolicy" },
+        { label: "Refund Policy", href: "/refund-policy" },
+      ].map((item) => (
+        <li
+          key={item.label}
+          className="text-gray-800 text-sm cursor-pointer hover:text-[#FE5722] hover:underline transition-colors duration-300"
+        >
+          <Link href={item.href}>{item.label}</Link>
+        </li>
+      ))}
+    </ul>
           <div className="text-center text-[#A19C9C] w-full text-sm py-4 bg-white mt-5">
             Copyright © 2025 Tax Lodge Online
           </div>

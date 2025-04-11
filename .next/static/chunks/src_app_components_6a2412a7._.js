@@ -28,35 +28,40 @@ function BlogPg() {
             description: "Personal tax doesn’t have to be confusing. Learn how to lodge your tax return, claim deductions, and understand the key deadlines. This guide breaks down the essentials to help you manage your taxes with confidence and get the most out of your returns.",
             date: "March 20, 2025",
             readTime: "5 min read",
-            image: "/blogpic1.png"
+            image: "/blogpic1.png",
+            link: '/blog'
         },
         {
             title: "Reporting Income and Deductions in Partnerships",
             description: "Partnerships come with unique tax responsibilities. Discover how to report income, handle expenses, and distribute profits among partners. Understand the lodgment process and key dates to ensure smooth tax management for your partnership.",
             date: "March 20, 2025",
             readTime: "5 min read",
-            image: "/blogpic2.png"
+            image: "/blogpic2.png",
+            link: '/blog2'
         },
         {
             title: "Small Business Guide to Company Tax",
             description: "Running a company means staying on top of taxes. Explore how small businesses calculate taxable income, claim deductions, and meet deadlines. This guide simplifies the process, making company tax easier to navigate.",
             date: "March 20, 2025",
             readTime: "5 min read",
-            image: "/blogpic3.png"
+            image: "/blogpic3.png",
+            link: '/blog3'
         },
         {
             title: "Understanding GST Obligations for Businesses",
             description: "GST can be complex, but it doesn’t have to be overwhelming. Learn when to register, what transactions are taxable, and how to report correctly. Master the essentials of managing GST for your business with ease.",
             date: "March 20, 2025",
             readTime: "5 min read",
-            image: "/blogpic4.png"
+            image: "/blogpic4.png",
+            link: '/blog4'
         },
         {
             title: "Superannuation Contributions and Retirement Planning",
             description: "Superannuation is a vital part of planning for the future. Understand employer contributions, concessional caps, and how to grow your super. This guide breaks down the rules so you can take control of your retirement savings.",
             date: "March 20, 2025",
             readTime: "5 min read",
-            image: "/blogpic5.png"
+            image: "/blogpic5.png",
+            link: '/blog5'
         }
     ];
     const tags = [
@@ -81,7 +86,7 @@ function BlogPg() {
                             children: "5 Results"
                         }, void 0, false, {
                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                            lineNumber: 63,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, this),
                         articles.map((article, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -106,15 +111,22 @@ function BlogPg() {
                                                 children: article.date
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                                lineNumber: 74,
+                                                lineNumber: 79,
                                                 columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-lg font-semibold",
-                                                children: article.title
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                href: article.link,
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-lg font-semibold text-[#1E1E1E] hover:underline hover:text-orange-500 cursor-pointer",
+                                                    children: article.title
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/app/components/BlogDetails.tsx",
+                                                    lineNumber: 81,
+                                                    columnNumber: 5
+                                                }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                                lineNumber: 75,
+                                                lineNumber: 80,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -122,7 +134,7 @@ function BlogPg() {
                                                 children: article.description
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                                lineNumber: 76,
+                                                lineNumber: 85,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -130,13 +142,13 @@ function BlogPg() {
                                                 children: article.readTime
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                                lineNumber: 77,
+                                                lineNumber: 86,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                        lineNumber: 73,
+                                        lineNumber: 78,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -147,19 +159,19 @@ function BlogPg() {
                                         className: "mt-6 rounded-md object-cover w-full h-full md:w-[180px] md:h-[150px] transition-transform transform hover:scale-105 hover:shadow-lg"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 88,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, index, true, {
                                 fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                lineNumber: 66,
+                                lineNumber: 71,
                                 columnNumber: 13
                             }, this))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                    lineNumber: 62,
+                    lineNumber: 67,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -183,7 +195,7 @@ function BlogPg() {
                                     children: "Popular Tags"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 90,
+                                    lineNumber: 99,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -193,18 +205,18 @@ function BlogPg() {
                                             children: tag
                                         }, index, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 93,
+                                            lineNumber: 102,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 91,
+                                    lineNumber: 100,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                            lineNumber: 85,
+                            lineNumber: 94,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -226,40 +238,44 @@ function BlogPg() {
                                     children: "Authors"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 108,
+                                    lineNumber: 117,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "flex items-center gap-2",
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/author2.png",
                                             alt: "Author 1",
+                                            width: 20,
+                                            height: 20,
                                             className: "w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 119,
                                             columnNumber: 15
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/author1.png",
                                             alt: "Author 2",
+                                            width: 20,
+                                            height: 20,
                                             className: "w-20 h-20 rounded-full object-cover transition-transform transform hover:scale-105 hover:shadow-lg"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 111,
+                                            lineNumber: 120,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 109,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                            lineNumber: 103,
+                            lineNumber: 112,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -270,7 +286,7 @@ function BlogPg() {
                                     children: "If You Need Any Help Contact With Us"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 116,
+                                    lineNumber: 125,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -280,18 +296,18 @@ function BlogPg() {
                                         children: "Contact Us"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                        lineNumber: 118,
+                                        lineNumber: 127,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 117,
+                                    lineNumber: 126,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                            lineNumber: 115,
+                            lineNumber: 124,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -302,7 +318,7 @@ function BlogPg() {
                                     children: "Follow Us"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 125,
+                                    lineNumber: 134,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -312,50 +328,50 @@ function BlogPg() {
                                             className: "w-[30px] h-[30px] cursor-pointer hover:text-orange-500 transition"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 127,
+                                            lineNumber: 136,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaInstagram"], {
                                             className: "w-[30px] h-[30px] cursor-pointer hover:text-orange-500 transition"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 128,
+                                            lineNumber: 137,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaFacebookF"], {
                                             className: "w-[30px] h-[30px] cursor-pointer hover:text-orange-500 transition"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                            lineNumber: 129,
+                                            lineNumber: 138,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                                    lineNumber: 126,
+                                    lineNumber: 135,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/BlogDetails.tsx",
-                            lineNumber: 124,
+                            lineNumber: 133,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/components/BlogDetails.tsx",
-                    lineNumber: 84,
+                    lineNumber: 93,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/components/BlogDetails.tsx",
-            lineNumber: 61,
+            lineNumber: 66,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/components/BlogDetails.tsx",
-        lineNumber: 60,
+        lineNumber: 65,
         columnNumber: 5
     }, this);
 }

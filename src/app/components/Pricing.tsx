@@ -168,47 +168,47 @@ const Pricing = () => {
           Individual & Sole Trader Tax Returns
         </h1>
         <div className="flex flex-wrap justify-center gap-6">
-        {plans.map((plan, index) => (
-  <motion.div
-    key={index}
-    className={`w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col`}
-    initial={{ opacity: 0, y: 50 }}
-    whileInView={{ opacity: 1, y: 0 }}
-    whileHover={{ scale: 1.05, boxShadow: "0 10px 20px rgba(0, 0, 0, 0.2)" }}
-    transition={{ duration: 0.6, delay: index * 0.2 }}
-    viewport={{ once: true }}
-  >
-    <h3 className="text-xl font-bold text-center">{plan.title}</h3>
-    <p className="text-lg font-semibold mt-2 text-center">{plan.price}</p>
-    <ul className="mt-4 space-y-2 text-sm flex-grow">
-      {plan.features.map((feature, i) => (
-        <li key={i} className="flex items-center">
-          <span
-            className={`rounded-full w-6 h-6 flex items-center justify-center mr-2 border-2 ${plan.borderColor} ${plan.borderBgColor}`}
-          >
-            <svg
-              className={`h-4 w-4 ${plan.tickColor}`}
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              strokeWidth={3}
+          {plans.map((plan, index) => (
+            <motion.div
+              key={index}
+              className={`w-full sm:w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col`}
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              whileHover={{ scale: 1.05, boxShadow: "0 10px 20px rgba(0, 0, 0, 0.2)" }}
+              transition={{ duration: 0.6, delay: index * 0.2 }}
+              viewport={{ once: true }}
             >
-              <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-            </svg>
-          </span>
-          {feature}
-        </li>
-      ))}
-    </ul>
-    <button className="mt-1 w-full mb-4 bg-black text-white py-2 rounded-lg hover:bg-gray-800 hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-      GET STARTED
-    </button>
-  </motion.div>
-))}
-
-          
+              <h3 className="text-xl font-bold text-center">{plan.title}</h3>
+              <p className="text-lg font-semibold mt-2 text-center">{plan.price}</p>
+              <ul className="mt-4 space-y-2 text-sm flex-grow">
+                {plan.features.map((feature, i) => (
+                  <li key={i} className="flex items-center">
+                    <span
+                      className={`rounded-full w-6 h-6 flex items-center justify-center mr-2 border-2 ${plan.borderColor} ${plan.borderBgColor}`}
+                    >
+                      <svg
+                        className={`h-4 w-4 ${plan.tickColor}`}
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        strokeWidth={3}
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </span>
+                    {feature}
+                  </li>
+                ))}
+              </ul>
+              <button className="mt-1 w-full mb-4 bg-black text-white py-2 rounded-lg hover:bg-gray-800 hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+                GET STARTED
+              </button>
+            </motion.div>
+          ))}
         </div>
-        <p className="flex justify-center items-center md:w-[850px] md:ml-32 mt-10">* Excludes Tax Returns that needs inclusion of supplementary section that can include income or loss from investment property, capital gains, foreign income and business.</p>
+        <p className="flex justify-center items-center md:w-[850px] md:ml-32 mt-10 text-sm text-center">
+          * Excludes Tax Returns that needs inclusion of supplementary section that can include income or loss from investment property, capital gains, foreign income, and business.
+        </p>
 
         {/* Partnership & Business Entity Tax Returns */}
         <h1 className="text-4xl font-bold text-center mt-28 mb-10">
@@ -218,9 +218,10 @@ const Pricing = () => {
           {priceplans.map((plan, index) => (
             <motion.div
               key={index}
-              className={`w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col transition-transform duration-300 hover:scale-105`}
+              className={`w-full sm:w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col transition-transform duration-300 hover:scale-105`}
               initial={{ opacity: 0, y: 50 }}
               whileInView={{ opacity: 1, y: 0 }}
+              whileHover={{ scale: 1.05, boxShadow: "0 10px 20px rgba(0, 0, 0, 0.2)" }}
               transition={{ duration: 0.6, delay: index * 0.2 }}
               viewport={{ once: true }}
             >

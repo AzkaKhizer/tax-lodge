@@ -32,8 +32,8 @@ const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-white md:bg-[#F2F2F2] absolute inset-x-0 top-0 z-50 px-2 py-8 pr-12 md:pr-10 md:px-6 md:py-7 mx-auto overflow-x-hidden">
-      <div className="flex justify-between md:justify-between items-center">
+    <header className="bg-white md:bg-[#F2F2F2] absolute inset-x-0 top-0 z-50 px-2 py-8 pr-4 md:px-6 md:py-7 mx-auto overflow-x-hidden">
+      <div className="flex justify-between items-center w-full">
         {/* Logo */}
         <Link href="/">
           <Image
@@ -41,11 +41,11 @@ const Header = () => {
             alt="Logo"
             width={61}
             height={68}
-            className="ml-8 cursor-pointer hover:scale-105 transition-transform duration-300"
+            className="ml-2 md:ml-8 cursor-pointer hover:scale-105 transition-transform duration-300"
           />
         </Link>
 
-        {/* Desktop Nav */}
+        {/* Center Nav Links */}
         <nav className="hidden md:flex space-x-6 lg:space-x-10">
           {navLinks.map((link) => (
             <motion.div
@@ -65,11 +65,31 @@ const Header = () => {
           ))}
         </nav>
 
-        {/* CTA Button */}
-        <div className="hidden md:flex items-center space-x-4">
+        {/* Right Buttons */}
+        <div className="hidden md:flex items-center space-x-3 ml-2">
+          <Link href="/login">
+            <motion.button
+              className="text-black hover:text-[#FE5722] border border-[#FE5722] px-4 py-1 rounded-md transition text-sm"
+              variants={buttonVariants}
+              whileHover="hover"
+              whileTap="tap"
+            >
+              Login
+            </motion.button>
+          </Link>
+          <Link href="/signup">
+            <motion.button
+              className="text-black hover:text-[#FE5722] border border-[#FE5722] px-4 py-1 rounded-md transition text-sm"
+              variants={buttonVariants}
+              whileHover="hover"
+              whileTap="tap"
+            >
+              Signup
+            </motion.button>
+          </Link>
           <Link href="/get-started">
             <motion.button
-              className="text-orange-500 hover:bg-orange-500 hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-orange-500"
+              className="text-[#FE5722] hover:bg-[#FE5722] hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-[#FE5722] text-sm"
               variants={buttonVariants}
               whileHover="hover"
               whileTap="tap"
@@ -98,7 +118,13 @@ const Header = () => {
             </Link>
           ))}
 
-          {/* CTA in Mobile Menu */}
+          {/* Mobile Login/Signup/CTA */}
+          <Link href="/login" className="ml-3 text-[#FE5722] hover:text-black">
+            Login
+          </Link>
+          <Link href="/signup" className="ml-3 text-[#FE5722] hover:text-black">
+            Signup
+          </Link>
           <div className="flex items-center space-x-4 mt-4 ml-3">
             <Link href="/get-started">
               <button className="text-[#FE5722] font-bold">GET STARTED</button>

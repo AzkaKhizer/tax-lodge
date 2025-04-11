@@ -185,7 +185,7 @@ const Pricing = ()=>{
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-wrap justify-center gap-6",
                     children: plans.map((plan, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                            className: `w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col`,
+                            className: `w-full sm:w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col`,
                             initial: {
                                 opacity: 0,
                                 y: 50
@@ -212,7 +212,7 @@ const Pricing = ()=>{
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
                                     lineNumber: 181,
-                                    columnNumber: 5
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-lg font-semibold mt-2 text-center",
@@ -220,7 +220,7 @@ const Pricing = ()=>{
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
                                     lineNumber: 182,
-                                    columnNumber: 5
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                     className: "mt-4 space-y-2 text-sm flex-grow",
@@ -242,29 +242,29 @@ const Pricing = ()=>{
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/Pricing.tsx",
                                                             lineNumber: 196,
-                                                            columnNumber: 15
+                                                            columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/Pricing.tsx",
                                                         lineNumber: 189,
-                                                        columnNumber: 13
+                                                        columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/Pricing.tsx",
                                                     lineNumber: 186,
-                                                    columnNumber: 11
+                                                    columnNumber: 21
                                                 }, this),
                                                 feature
                                             ]
                                         }, i, true, {
                                             fileName: "[project]/src/app/components/Pricing.tsx",
                                             lineNumber: 185,
-                                            columnNumber: 9
+                                            columnNumber: 19
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
                                     lineNumber: 183,
-                                    columnNumber: 5
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     className: "mt-1 w-full mb-4 bg-black text-white py-2 rounded-lg hover:bg-gray-800 hover:shadow-lg hover:-translate-y-1 transition-all duration-300",
@@ -272,13 +272,13 @@ const Pricing = ()=>{
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
                                     lineNumber: 203,
-                                    columnNumber: 5
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, index, true, {
                             fileName: "[project]/src/app/components/Pricing.tsx",
                             lineNumber: 172,
-                            columnNumber: 3
+                            columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/app/components/Pricing.tsx",
@@ -286,11 +286,11 @@ const Pricing = ()=>{
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    className: "flex justify-center items-center md:w-[850px] md:ml-32 mt-10",
-                    children: "* Excludes Tax Returns that needs inclusion of supplementary section that can include income or loss from investment property, capital gains, foreign income and business."
+                    className: "flex justify-center items-center md:w-[850px] md:ml-32 mt-10 text-sm text-center",
+                    children: "* Excludes Tax Returns that needs inclusion of supplementary section that can include income or loss from investment property, capital gains, foreign income, and business."
                 }, void 0, false, {
                     fileName: "[project]/src/app/components/Pricing.tsx",
-                    lineNumber: 211,
+                    lineNumber: 209,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -304,7 +304,7 @@ const Pricing = ()=>{
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-wrap justify-center gap-6 mt-6",
                     children: priceplans.map((plan, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
-                            className: `w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col transition-transform duration-300 hover:scale-105`,
+                            className: `w-full sm:w-[416px] h-[580px] p-6 rounded-lg shadow-lg ${plan.bgColor} ${plan.textColor} flex flex-col transition-transform duration-300 hover:scale-105`,
                             initial: {
                                 opacity: 0,
                                 y: 50
@@ -312,6 +312,10 @@ const Pricing = ()=>{
                             whileInView: {
                                 opacity: 1,
                                 y: 0
+                            },
+                            whileHover: {
+                                scale: 1.05,
+                                boxShadow: "0 10px 20px rgba(0, 0, 0, 0.2)"
                             },
                             transition: {
                                 duration: 0.6,
@@ -326,7 +330,7 @@ const Pricing = ()=>{
                                     children: plan.heading
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
-                                    lineNumber: 227,
+                                    lineNumber: 228,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -334,7 +338,7 @@ const Pricing = ()=>{
                                     children: plan.price
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
-                                    lineNumber: 228,
+                                    lineNumber: 229,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -356,29 +360,29 @@ const Pricing = ()=>{
                                                             d: "M5 13l4 4L19 7"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/Pricing.tsx",
-                                                            lineNumber: 234,
+                                                            lineNumber: 235,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/Pricing.tsx",
-                                                        lineNumber: 233,
+                                                        lineNumber: 234,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/Pricing.tsx",
-                                                    lineNumber: 232,
+                                                    lineNumber: 233,
                                                     columnNumber: 21
                                                 }, this),
                                                 feature
                                             ]
                                         }, i, true, {
                                             fileName: "[project]/src/app/components/Pricing.tsx",
-                                            lineNumber: 231,
+                                            lineNumber: 232,
                                             columnNumber: 19
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
-                                    lineNumber: 229,
+                                    lineNumber: 230,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -386,7 +390,7 @@ const Pricing = ()=>{
                                     children: "GET STARTED"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Pricing.tsx",
-                                    lineNumber: 241,
+                                    lineNumber: 242,
                                     columnNumber: 15
                                 }, this)
                             ]

@@ -69,25 +69,17 @@ const Header = () => {
         <div className="hidden md:flex items-center space-x-3 ml-2">
           <Link href="/login">
             <motion.button
-              className="text-black hover:text-[#FE5722] border border-[#FE5722] px-4 py-1 rounded-md transition text-sm"
+              className="text-[#FE5722] hover:bg-[#FE5722] hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-[#FE5722] text-sm"
               variants={buttonVariants}
               whileHover="hover"
               whileTap="tap"
             >
-              Login
+              LOGIN
             </motion.button>
           </Link>
+         
+          
           <Link href="/signup">
-            <motion.button
-              className="text-black hover:text-[#FE5722] border border-[#FE5722] px-4 py-1 rounded-md transition text-sm"
-              variants={buttonVariants}
-              whileHover="hover"
-              whileTap="tap"
-            >
-              Signup
-            </motion.button>
-          </Link>
-          <Link href="/get-started">
             <motion.button
               className="text-[#FE5722] hover:bg-[#FE5722] hover:text-white transition font-semibold px-4 py-2 rounded-lg border border-[#FE5722] text-sm"
               variants={buttonVariants}

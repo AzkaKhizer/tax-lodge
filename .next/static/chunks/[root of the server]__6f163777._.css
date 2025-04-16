@@ -1655,10 +1655,6 @@ img, video {
   padding-top: 1.5rem;
 }
 
-.pt-32 {
-  padding-top: 8rem;
-}
-
 .text-center {
   text-align: center;
 }
@@ -2664,14 +2660,6 @@ body {
 
   .md\:w-\[972px\] {
     width: 972px;
-  }
-
-  .md\:w-\[px\] {
-    width: px;
-  }
-
-  .md\:w-\[35px\] {
-    width: 35px;
   }
 
   .md\:max-w-\[1200px\] {

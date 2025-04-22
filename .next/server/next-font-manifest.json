@@ -1,12 +1,9 @@
 {
   "app": {
-    "[project]/src/app/_not-found/page": [
-      "static/media/QGYvz_MVcBeNP4NJtEtqUYLknw-s.p.17653016.woff2"
-    ],
     "[project]/src/app/page": [
       "static/media/QGYvz_MVcBeNP4NJtEtqUYLknw-s.p.17653016.woff2"
     ],
-    "[project]/src/app/signup/page": [
+    "[project]/src/app/tax-form/page": [
       "static/media/QGYvz_MVcBeNP4NJtEtqUYLknw-s.p.17653016.woff2"
     ]
   },

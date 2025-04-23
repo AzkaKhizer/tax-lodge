@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import IncomeSection from '../components/IncomeSection';
 import DeductionsSection from '../components/DeductionSection';
+import SubmitSection from '../components/SubmitSection';
 
 
 interface EmploymentDetail {
@@ -1072,6 +1073,15 @@ export default function TaxLodgeForm() {
           <DeductionsSection 
             onNext={() => setActiveSection('submit')}
             onBack={() => setActiveSection('income')}
+            
+          />
+        )}
+
+         {/* Submit Section */}
+         {activeSection === 'submit' && (
+          <SubmitSection 
+            onNext={() => setActiveSection('submit')}
+            onBack={() => setActiveSection('deductions')}
             
           />
         )}

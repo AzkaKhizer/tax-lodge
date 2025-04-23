@@ -269,7 +269,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Main Occupation/Position*"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 216,
+                                                    lineNumber: 219,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -280,13 +280,13 @@ function IncomeSection({ onNext, onBack }) {
                                                     required: true
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 217,
+                                                    lineNumber: 220,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 215,
+                                            lineNumber: 218,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -296,7 +296,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Main Role/Duty*"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 226,
+                                                    lineNumber: 229,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -307,13 +307,13 @@ function IncomeSection({ onNext, onBack }) {
                                                     required: true
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 227,
+                                                    lineNumber: 230,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 225,
+                                            lineNumber: 228,
                                             columnNumber: 15
                                         }, this)
                                     ]
@@ -332,7 +332,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Business Name*"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 239,
+                                                    lineNumber: 242,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -343,13 +343,13 @@ function IncomeSection({ onNext, onBack }) {
                                                     required: true
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 240,
+                                                    lineNumber: 243,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 238,
+                                            lineNumber: 241,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -359,7 +359,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Business Phone Number"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 249,
+                                                    lineNumber: 252,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -369,19 +369,19 @@ function IncomeSection({ onNext, onBack }) {
                                                     className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 250,
+                                                    lineNumber: 253,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 248,
+                                            lineNumber: 251,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 237,
+                                    lineNumber: 240,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -394,7 +394,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Start Date"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 261,
+                                                    lineNumber: 264,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -404,13 +404,13 @@ function IncomeSection({ onNext, onBack }) {
                                                     className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 262,
+                                                    lineNumber: 265,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 260,
+                                            lineNumber: 263,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -420,7 +420,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Finish Date (if applicable)"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 270,
+                                                    lineNumber: 273,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -430,19 +430,19 @@ function IncomeSection({ onNext, onBack }) {
                                                     className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 271,
+                                                    lineNumber: 274,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 269,
+                                            lineNumber: 272,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 259,
+                                    lineNumber: 262,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -453,7 +453,7 @@ function IncomeSection({ onNext, onBack }) {
                                             children: "Upload your Payment Summary/Final Pay Slip"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 281,
+                                            lineNumber: 284,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -472,7 +472,7 @@ function IncomeSection({ onNext, onBack }) {
                                                                         children: "Upload a file"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                        lineNumber: 289,
+                                                                        lineNumber: 292,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -484,13 +484,13 @@ function IncomeSection({ onNext, onBack }) {
                                                                         multiple: true
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                        lineNumber: 290,
+                                                                        lineNumber: 293,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                lineNumber: 285,
+                                                                lineNumber: 288,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -498,13 +498,13 @@ function IncomeSection({ onNext, onBack }) {
                                                                 children: "or drag and drop"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                lineNumber: 299,
+                                                                lineNumber: 302,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 284,
+                                                        lineNumber: 287,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -512,18 +512,18 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: "PDF, JPG, PNG up to 10MB"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 301,
+                                                        lineNumber: 304,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 283,
+                                                lineNumber: 286,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 282,
+                                            lineNumber: 285,
                                             columnNumber: 15
                                         }, this),
                                         employer.files.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -534,7 +534,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Uploaded files:"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 306,
+                                                    lineNumber: 309,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -544,24 +544,24 @@ function IncomeSection({ onNext, onBack }) {
                                                             children: file.name
                                                         }, i, false, {
                                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                            lineNumber: 309,
+                                                            lineNumber: 312,
                                                             columnNumber: 23
                                                         }, this))
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 307,
+                                                    lineNumber: 310,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 305,
+                                            lineNumber: 308,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 280,
+                                    lineNumber: 283,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -588,19 +588,19 @@ function IncomeSection({ onNext, onBack }) {
                                     d: "M12 6v6m0 0v6m0-6h6m-6 0H6"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 324,
+                                    lineNumber: 327,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 323,
+                                lineNumber: 326,
                                 columnNumber: 11
                             }, this),
                             "Add Employer"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 318,
+                        lineNumber: 321,
                         columnNumber: 9
                     }, this)
                 ]
@@ -617,7 +617,7 @@ function IncomeSection({ onNext, onBack }) {
                         children: "Other Income or Loss"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 332,
+                        lineNumber: 335,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -628,7 +628,7 @@ function IncomeSection({ onNext, onBack }) {
                                 children: "Did you have income or loss from any other sources?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 335,
+                                lineNumber: 338,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -644,7 +644,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 338,
+                                                lineNumber: 341,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -652,13 +652,13 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "Yes"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 344,
+                                                lineNumber: 347,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 337,
+                                        lineNumber: 340,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -671,7 +671,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 347,
+                                                lineNumber: 350,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -679,25 +679,25 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "No"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 353,
+                                                lineNumber: 356,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 346,
+                                        lineNumber: 349,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 336,
+                                lineNumber: 339,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 334,
+                        lineNumber: 337,
                         columnNumber: 9
                     }, this),
                     hasOtherIncome && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -710,7 +710,7 @@ function IncomeSection({ onNext, onBack }) {
                                         children: "Other non-employment income (Check all applicable)"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 361,
+                                        lineNumber: 364,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -725,7 +725,7 @@ function IncomeSection({ onNext, onBack }) {
                                                         className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 365,
+                                                        lineNumber: 368,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -733,24 +733,24 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: type
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 371,
+                                                        lineNumber: 374,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, type, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 364,
+                                                lineNumber: 367,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 362,
+                                        lineNumber: 365,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 360,
+                                lineNumber: 363,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -761,7 +761,7 @@ function IncomeSection({ onNext, onBack }) {
                                         children: "Please list other incomes you have made or received and not mentioned above:"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 378,
+                                        lineNumber: 381,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -772,13 +772,13 @@ function IncomeSection({ onNext, onBack }) {
                                         placeholder: "Enter any additional income details here..."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 381,
+                                        lineNumber: 384,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 377,
+                                lineNumber: 380,
                                 columnNumber: 13
                             }, this),
                             otherIncomes.map((income, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -794,7 +794,7 @@ function IncomeSection({ onNext, onBack }) {
                                                             children: "Type"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                            lineNumber: 395,
+                                                            lineNumber: 398,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -804,13 +804,13 @@ function IncomeSection({ onNext, onBack }) {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                            lineNumber: 396,
+                                                            lineNumber: 399,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 394,
+                                                    lineNumber: 397,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -820,7 +820,7 @@ function IncomeSection({ onNext, onBack }) {
                                                             children: "Amount ($)"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                            lineNumber: 404,
+                                                            lineNumber: 407,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -830,19 +830,19 @@ function IncomeSection({ onNext, onBack }) {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                            lineNumber: 405,
+                                                            lineNumber: 408,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 403,
+                                                    lineNumber: 406,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 393,
+                                            lineNumber: 396,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -852,7 +852,7 @@ function IncomeSection({ onNext, onBack }) {
                                                     children: "Description"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 414,
+                                                    lineNumber: 417,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -862,19 +862,19 @@ function IncomeSection({ onNext, onBack }) {
                                                     className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                    lineNumber: 415,
+                                                    lineNumber: 418,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 413,
+                                            lineNumber: 416,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, index, true, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 392,
+                                    lineNumber: 395,
                                     columnNumber: 15
                                 }, this)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -895,19 +895,19 @@ function IncomeSection({ onNext, onBack }) {
                                             d: "M12 6v6m0 0v6m0-6h6m-6 0H6"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                            lineNumber: 431,
+                                            lineNumber: 434,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 433,
                                         columnNumber: 15
                                     }, this),
                                     "Add Other Income Entry"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 425,
+                                lineNumber: 428,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -915,7 +915,7 @@ function IncomeSection({ onNext, onBack }) {
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                lineNumber: 331,
+                lineNumber: 334,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -926,7 +926,7 @@ function IncomeSection({ onNext, onBack }) {
                         children: "COVID-19 Support Payments"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 441,
+                        lineNumber: 444,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -937,7 +937,7 @@ function IncomeSection({ onNext, onBack }) {
                                 children: "Did you receive COVID-19 Support Payment?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 444,
+                                lineNumber: 447,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -953,7 +953,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 449,
+                                                lineNumber: 452,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -961,13 +961,13 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "Yes"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 455,
+                                                lineNumber: 458,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 448,
+                                        lineNumber: 451,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -980,7 +980,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 458,
+                                                lineNumber: 461,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -988,25 +988,25 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "No"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 464,
+                                                lineNumber: 467,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 457,
+                                        lineNumber: 460,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 447,
+                                lineNumber: 450,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 443,
+                        lineNumber: 446,
                         columnNumber: 9
                     }, this),
                     receivedCovidSupport && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1017,7 +1017,7 @@ function IncomeSection({ onNext, onBack }) {
                                 children: "Check all applicable:"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 471,
+                                lineNumber: 474,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1032,7 +1032,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 477,
+                                                lineNumber: 480,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1040,30 +1040,30 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: type
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 483,
+                                                lineNumber: 486,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, type, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 476,
+                                        lineNumber: 479,
                                         columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 474,
+                                lineNumber: 477,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 470,
+                        lineNumber: 473,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                lineNumber: 440,
+                lineNumber: 443,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1074,7 +1074,7 @@ function IncomeSection({ onNext, onBack }) {
                         children: "Overseas Assets"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 493,
+                        lineNumber: 496,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1085,7 +1085,7 @@ function IncomeSection({ onNext, onBack }) {
                                 children: "Overseas assets over $500?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 496,
+                                lineNumber: 499,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1101,7 +1101,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 501,
+                                                lineNumber: 504,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1109,13 +1109,13 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "Yes"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 507,
+                                                lineNumber: 510,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 500,
+                                        lineNumber: 503,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1128,7 +1128,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 510,
+                                                lineNumber: 513,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1136,25 +1136,25 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "No"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 516,
+                                                lineNumber: 519,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 509,
+                                        lineNumber: 512,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 499,
+                                lineNumber: 502,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 495,
+                        lineNumber: 498,
                         columnNumber: 9
                     }, this),
                     hasOverseasAssets && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1162,13 +1162,13 @@ function IncomeSection({ onNext, onBack }) {
                         children: "During the year did you own, or have an interest in, assets located outside Australia which had a total value of AUD$500.00 or more?"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 522,
+                        lineNumber: 525,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                lineNumber: 492,
+                lineNumber: 495,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1179,7 +1179,7 @@ function IncomeSection({ onNext, onBack }) {
                         children: "Business Income or Loss"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 530,
+                        lineNumber: 533,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1190,7 +1190,7 @@ function IncomeSection({ onNext, onBack }) {
                                 children: "Did you run a business at any time during the year?*"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 533,
+                                lineNumber: 536,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1206,7 +1206,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 538,
+                                                lineNumber: 541,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1214,13 +1214,13 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "Yes"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 544,
+                                                lineNumber: 547,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 537,
+                                        lineNumber: 540,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1233,7 +1233,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 547,
+                                                lineNumber: 550,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1241,25 +1241,25 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "No"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 553,
+                                                lineNumber: 556,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 546,
+                                        lineNumber: 549,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 536,
+                                lineNumber: 539,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 532,
+                        lineNumber: 535,
                         columnNumber: 9
                     }, this),
                     hasBusinessIncome && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -1271,12 +1271,12 @@ function IncomeSection({ onNext, onBack }) {
                                     children: "Working under an ABN or as a contractor"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                    lineNumber: 561,
+                                    lineNumber: 564,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 560,
+                                lineNumber: 563,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1287,7 +1287,7 @@ function IncomeSection({ onNext, onBack }) {
                                         children: "Main business activity*"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 567,
+                                        lineNumber: 570,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1298,13 +1298,13 @@ function IncomeSection({ onNext, onBack }) {
                                         required: true
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 570,
+                                        lineNumber: 573,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 566,
+                                lineNumber: 569,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1315,7 +1315,7 @@ function IncomeSection({ onNext, onBack }) {
                                         children: "Did you receive COVID-19 Support Payment for your Business?"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 580,
+                                        lineNumber: 583,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1331,7 +1331,7 @@ function IncomeSection({ onNext, onBack }) {
                                                         className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 585,
+                                                        lineNumber: 588,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1339,13 +1339,13 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: "Yes"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 591,
+                                                        lineNumber: 594,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 584,
+                                                lineNumber: 587,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1358,7 +1358,7 @@ function IncomeSection({ onNext, onBack }) {
                                                         className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 594,
+                                                        lineNumber: 597,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1366,25 +1366,25 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: "No"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 600,
+                                                        lineNumber: 603,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 593,
+                                                lineNumber: 596,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 583,
+                                        lineNumber: 586,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 579,
+                                lineNumber: 582,
                                 columnNumber: 13
                             }, this),
                             businessCovidSupport && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -1397,7 +1397,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "COVID-19 Support Payment for Business: (Check all applicable)"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 608,
+                                                lineNumber: 611,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1412,7 +1412,7 @@ function IncomeSection({ onNext, onBack }) {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                lineNumber: 614,
+                                                                lineNumber: 617,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1420,24 +1420,24 @@ function IncomeSection({ onNext, onBack }) {
                                                                 children: type
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                                lineNumber: 620,
+                                                                lineNumber: 623,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, type, true, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 613,
+                                                        lineNumber: 616,
                                                         columnNumber: 23
                                                     }, this))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 611,
+                                                lineNumber: 614,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 607,
+                                        lineNumber: 610,
                                         columnNumber: 17
                                     }, this),
                                     selectedBusinessCovidPayments.includes('Pandemic Leave Disaster Payment (PLDP)') && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1448,7 +1448,7 @@ function IncomeSection({ onNext, onBack }) {
                                                 children: "Pandemic Leave Disaster Payment (PLDP) details"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 628,
+                                                lineNumber: 631,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1459,13 +1459,13 @@ function IncomeSection({ onNext, onBack }) {
                                                 placeholder: "Enter PLDP details..."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 631,
+                                                lineNumber: 634,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 627,
+                                        lineNumber: 630,
                                         columnNumber: 19
                                     }, this)
                                 ]
@@ -1478,7 +1478,7 @@ function IncomeSection({ onNext, onBack }) {
                                         children: "Do you have any deferred Non-Commercial losses?"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 645,
+                                        lineNumber: 648,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1494,7 +1494,7 @@ function IncomeSection({ onNext, onBack }) {
                                                         className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 650,
+                                                        lineNumber: 653,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1502,13 +1502,13 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: "Yes"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 656,
+                                                        lineNumber: 659,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 649,
+                                                lineNumber: 652,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1521,7 +1521,7 @@ function IncomeSection({ onNext, onBack }) {
                                                         className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 659,
+                                                        lineNumber: 662,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1529,25 +1529,25 @@ function IncomeSection({ onNext, onBack }) {
                                                         children: "No"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                        lineNumber: 665,
+                                                        lineNumber: 668,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                                lineNumber: 658,
+                                                lineNumber: 661,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                        lineNumber: 648,
+                                        lineNumber: 651,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                                lineNumber: 644,
+                                lineNumber: 647,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -1555,7 +1555,7 @@ function IncomeSection({ onNext, onBack }) {
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                lineNumber: 529,
+                lineNumber: 532,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1568,7 +1568,7 @@ function IncomeSection({ onNext, onBack }) {
                         children: "Back"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 674,
+                        lineNumber: 677,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1578,13 +1578,13 @@ function IncomeSection({ onNext, onBack }) {
                         children: "Next"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/IncomeSection.tsx",
-                        lineNumber: 681,
+                        lineNumber: 684,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/IncomeSection.tsx",
-                lineNumber: 673,
+                lineNumber: 676,
                 columnNumber: 7
             }, this)
         ]
@@ -1614,7 +1614,6 @@ function TaxLodgeForm() {
     const [activeSection, setActiveSection] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])('personal');
     const [idFile, setIdFile] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
     const [passportFile, setPassportFile] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
-    const [employmentCount, setEmploymentCount] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(1);
     const [formData, setFormData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])({
         taxYear: '',
         originalReturn: '',
@@ -1677,34 +1676,6 @@ function TaxLodgeForm() {
         otherDeductions: '',
         otherDeductionsDetails: ''
     });
-    const handleEmploymentChange = (index, e)=>{
-        const { name, value } = e.target;
-        const updatedDetails = [
-            ...formData.employmentDetails
-        ];
-        updatedDetails[index] = {
-            ...updatedDetails[index],
-            [name]: value
-        };
-        setFormData((prev)=>({
-                ...prev,
-                employmentDetails: updatedDetails
-            }));
-    };
-    const addEmployment = ()=>{
-        setEmploymentCount((prev)=>prev + 1);
-        setFormData((prev)=>({
-                ...prev,
-                employmentDetails: [
-                    ...prev.employmentDetails,
-                    {
-                        employer: '',
-                        income: '',
-                        taxWithheld: ''
-                    }
-                ]
-            }));
-    };
     const handleFileChange = (e, setFile)=>{
         if (e.target.files && e.target.files[0]) {
             setFile(e.target.files[0]);
@@ -1730,7 +1701,7 @@ function TaxLodgeForm() {
                 children: "Tax Lodge Online Form"
             }, void 0, false, {
                 fileName: "[project]/src/app/tax-form/page.tsx",
-                lineNumber: 193,
+                lineNumber: 173,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1742,7 +1713,7 @@ function TaxLodgeForm() {
                         children: "Personal Info"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 197,
+                        lineNumber: 177,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1751,7 +1722,7 @@ function TaxLodgeForm() {
                         children: "Income"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 203,
+                        lineNumber: 183,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1760,13 +1731,13 @@ function TaxLodgeForm() {
                         children: "Deductions"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 209,
+                        lineNumber: 189,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tax-form/page.tsx",
-                lineNumber: 196,
+                lineNumber: 176,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -1783,7 +1754,7 @@ function TaxLodgeForm() {
                                         children: "Personal Info"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 222,
+                                        lineNumber: 202,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1793,7 +1764,7 @@ function TaxLodgeForm() {
                                                 children: "Tax Year*"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 225,
+                                                lineNumber: 205,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -1808,7 +1779,7 @@ function TaxLodgeForm() {
                                                         children: "Select Tax Year"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 233,
+                                                        lineNumber: 213,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -1816,7 +1787,7 @@ function TaxLodgeForm() {
                                                         children: "2022-2023"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 234,
+                                                        lineNumber: 214,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -1824,7 +1795,7 @@ function TaxLodgeForm() {
                                                         children: "2021-2022"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 235,
+                                                        lineNumber: 215,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -1832,19 +1803,19 @@ function TaxLodgeForm() {
                                                         children: "2020-2021"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 236,
+                                                        lineNumber: 216,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 226,
+                                                lineNumber: 206,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 224,
+                                        lineNumber: 204,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1854,7 +1825,7 @@ function TaxLodgeForm() {
                                                 children: "Original tax return? *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 241,
+                                                lineNumber: 221,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1873,7 +1844,7 @@ function TaxLodgeForm() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 244,
+                                                                lineNumber: 224,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1881,13 +1852,13 @@ function TaxLodgeForm() {
                                                                 children: "Yes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 253,
+                                                                lineNumber: 233,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 243,
+                                                        lineNumber: 223,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1902,7 +1873,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 256,
+                                                                lineNumber: 236,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1910,25 +1881,25 @@ function TaxLodgeForm() {
                                                                 children: "No, I want to amend (fix) my tax return"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 264,
+                                                                lineNumber: 244,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 255,
+                                                        lineNumber: 235,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 242,
+                                                lineNumber: 222,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 240,
+                                        lineNumber: 220,
                                         columnNumber: 16
                                     }, this),
                                     formData.originalReturn === 'no' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1938,7 +1909,7 @@ function TaxLodgeForm() {
                                                 children: "Do you know what needs to be amended? Leave it blank if you are not sure."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 271,
+                                                lineNumber: 251,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -1949,7 +1920,7 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 274,
+                                                lineNumber: 254,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1957,13 +1928,13 @@ function TaxLodgeForm() {
                                                 children: "For tax reviews and amendments, we may ask you to pay our service fee upfront."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 281,
+                                                lineNumber: 261,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 270,
+                                        lineNumber: 250,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1980,12 +1951,12 @@ function TaxLodgeForm() {
                                                     className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                    lineNumber: 289,
+                                                    lineNumber: 269,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 288,
+                                                lineNumber: 268,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1997,7 +1968,7 @@ function TaxLodgeForm() {
                                                         children: "I Confirm"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 299,
+                                                        lineNumber: 279,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2005,19 +1976,19 @@ function TaxLodgeForm() {
                                                         children: "I am leaving (have left) Australia and will no longer derive Australian-sourced income."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 302,
+                                                        lineNumber: 282,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 298,
+                                                lineNumber: 278,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 287,
+                                        lineNumber: 267,
                                         columnNumber: 15
                                     }, this),
                                     formData.confirmLeave && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2027,7 +1998,7 @@ function TaxLodgeForm() {
                                                 children: "Date left or will leave Australia: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 308,
+                                                lineNumber: 288,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2039,13 +2010,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 309,
+                                                lineNumber: 289,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 307,
+                                        lineNumber: 287,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2055,7 +2026,7 @@ function TaxLodgeForm() {
                                                 children: "I am: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 321,
+                                                lineNumber: 301,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2074,7 +2045,7 @@ function TaxLodgeForm() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 324,
+                                                                lineNumber: 304,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2082,13 +2053,13 @@ function TaxLodgeForm() {
                                                                 children: "New Client"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 333,
+                                                                lineNumber: 313,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 323,
+                                                        lineNumber: 303,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2103,7 +2074,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 336,
+                                                                lineNumber: 316,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2111,25 +2082,25 @@ function TaxLodgeForm() {
                                                                 children: "Existing Client"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 344,
+                                                                lineNumber: 324,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 335,
+                                                        lineNumber: 315,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 322,
+                                                lineNumber: 302,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 320,
+                                        lineNumber: 300,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2139,7 +2110,7 @@ function TaxLodgeForm() {
                                                 children: "Name: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 350,
+                                                lineNumber: 330,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2156,12 +2127,12 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 353,
+                                                            lineNumber: 333,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 352,
+                                                        lineNumber: 332,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2175,24 +2146,24 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 364,
+                                                            lineNumber: 344,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 363,
+                                                        lineNumber: 343,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 351,
+                                                lineNumber: 331,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 349,
+                                        lineNumber: 329,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2205,7 +2176,7 @@ function TaxLodgeForm() {
                                                         children: "Date of Birth: *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 379,
+                                                        lineNumber: 359,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2217,13 +2188,13 @@ function TaxLodgeForm() {
                                                         required: true
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 380,
+                                                        lineNumber: 360,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 378,
+                                                lineNumber: 358,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2233,7 +2204,7 @@ function TaxLodgeForm() {
                                                         children: "Tax File Number: *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 390,
+                                                        lineNumber: 370,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2247,19 +2218,19 @@ function TaxLodgeForm() {
                                                         required: true
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 391,
+                                                        lineNumber: 371,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 369,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 377,
+                                        lineNumber: 357,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2269,7 +2240,7 @@ function TaxLodgeForm() {
                                                 children: "Email: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 405,
+                                                lineNumber: 385,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2281,13 +2252,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 406,
+                                                lineNumber: 386,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 404,
+                                        lineNumber: 384,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2297,7 +2268,7 @@ function TaxLodgeForm() {
                                                 children: "Marital status in this tax year: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 417,
+                                                lineNumber: 397,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -2312,7 +2283,7 @@ function TaxLodgeForm() {
                                                         children: "Select Status"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 425,
+                                                        lineNumber: 405,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2320,7 +2291,7 @@ function TaxLodgeForm() {
                                                         children: "Single"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 426,
+                                                        lineNumber: 406,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2328,7 +2299,7 @@ function TaxLodgeForm() {
                                                         children: "Married"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 427,
+                                                        lineNumber: 407,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2336,7 +2307,7 @@ function TaxLodgeForm() {
                                                         children: "Divorced"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 428,
+                                                        lineNumber: 408,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2344,7 +2315,7 @@ function TaxLodgeForm() {
                                                         children: "Separated"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 429,
+                                                        lineNumber: 409,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2352,19 +2323,19 @@ function TaxLodgeForm() {
                                                         children: "Widowed"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 430,
+                                                        lineNumber: 410,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 418,
+                                                lineNumber: 398,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 416,
+                                        lineNumber: 396,
                                         columnNumber: 15
                                     }, this),
                                     formData.maritalStatus === 'married' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -2379,7 +2350,7 @@ function TaxLodgeForm() {
                                                                 children: "Your spouse's Name: *"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 438,
+                                                                lineNumber: 418,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2391,13 +2362,13 @@ function TaxLodgeForm() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 439,
+                                                                lineNumber: 419,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 437,
+                                                        lineNumber: 417,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2407,7 +2378,7 @@ function TaxLodgeForm() {
                                                                 children: "Your spouse's DOB: *"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 449,
+                                                                lineNumber: 429,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2419,19 +2390,19 @@ function TaxLodgeForm() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 450,
+                                                                lineNumber: 430,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 448,
+                                                        lineNumber: 428,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 436,
+                                                lineNumber: 416,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2441,7 +2412,7 @@ function TaxLodgeForm() {
                                                         children: "Your spouse's taxable income: *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 462,
+                                                        lineNumber: 442,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2454,13 +2425,13 @@ function TaxLodgeForm() {
                                                         required: true
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 463,
+                                                        lineNumber: 443,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 461,
+                                                lineNumber: 441,
                                                 columnNumber: 19
                                             }, this)
                                         ]
@@ -2472,7 +2443,7 @@ function TaxLodgeForm() {
                                                 children: "Number of dependents: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 477,
+                                                lineNumber: 457,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2485,13 +2456,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 478,
+                                                lineNumber: 458,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 476,
+                                        lineNumber: 456,
                                         columnNumber: 15
                                     }, this),
                                     Number(formData.dependents) > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2501,7 +2472,7 @@ function TaxLodgeForm() {
                                                 children: "Children's names and their DOB"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 491,
+                                                lineNumber: 471,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -2512,13 +2483,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 492,
+                                                lineNumber: 472,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 490,
+                                        lineNumber: 470,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2528,7 +2499,7 @@ function TaxLodgeForm() {
                                                 children: "Citizenship/Residency: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 503,
+                                                lineNumber: 483,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2540,13 +2511,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 504,
+                                                lineNumber: 484,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 502,
+                                        lineNumber: 482,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2556,7 +2527,7 @@ function TaxLodgeForm() {
                                                 children: "Mobile Number: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 515,
+                                                lineNumber: 495,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2570,13 +2541,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 516,
+                                                lineNumber: 496,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 514,
+                                        lineNumber: 494,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2586,7 +2557,7 @@ function TaxLodgeForm() {
                                                 children: "Your residential address*"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 529,
+                                                lineNumber: 509,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2599,7 +2570,7 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 530,
+                                                lineNumber: 510,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2611,7 +2582,7 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 539,
+                                                lineNumber: 519,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2628,12 +2599,12 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 549,
+                                                            lineNumber: 529,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 548,
+                                                        lineNumber: 528,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2647,18 +2618,18 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 560,
+                                                            lineNumber: 540,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 559,
+                                                        lineNumber: 539,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 547,
+                                                lineNumber: 527,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2675,12 +2646,12 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 573,
+                                                            lineNumber: 553,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 572,
+                                                        lineNumber: 552,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2694,24 +2665,24 @@ function TaxLodgeForm() {
                                                             required: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 584,
+                                                            lineNumber: 564,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 583,
+                                                        lineNumber: 563,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 571,
+                                                lineNumber: 551,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 528,
+                                        lineNumber: 508,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2721,7 +2692,7 @@ function TaxLodgeForm() {
                                                 children: "Were you a resident for tax purpose?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 598,
+                                                lineNumber: 578,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2740,7 +2711,7 @@ function TaxLodgeForm() {
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 601,
+                                                                lineNumber: 581,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2748,13 +2719,13 @@ function TaxLodgeForm() {
                                                                 children: "Yes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 610,
+                                                                lineNumber: 590,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 600,
+                                                        lineNumber: 580,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2769,7 +2740,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 613,
+                                                                lineNumber: 593,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2777,25 +2748,25 @@ function TaxLodgeForm() {
                                                                 children: "No"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 621,
+                                                                lineNumber: 601,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 612,
+                                                        lineNumber: 592,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 599,
+                                                lineNumber: 579,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 597,
+                                        lineNumber: 577,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2805,7 +2776,7 @@ function TaxLodgeForm() {
                                                 children: "Passport Country:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 627,
+                                                lineNumber: 607,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2816,13 +2787,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 628,
+                                                lineNumber: 608,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 626,
+                                        lineNumber: 606,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2832,7 +2803,7 @@ function TaxLodgeForm() {
                                                 children: "Visa Type"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 638,
+                                                lineNumber: 618,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -2846,7 +2817,7 @@ function TaxLodgeForm() {
                                                         children: "Select Visa Type"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 645,
+                                                        lineNumber: 625,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2854,7 +2825,7 @@ function TaxLodgeForm() {
                                                         children: "Student Visa"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 646,
+                                                        lineNumber: 626,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2862,7 +2833,7 @@ function TaxLodgeForm() {
                                                         children: "Work Visa"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 647,
+                                                        lineNumber: 627,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2870,7 +2841,7 @@ function TaxLodgeForm() {
                                                         children: "Tourist Visa"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 648,
+                                                        lineNumber: 628,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2878,7 +2849,7 @@ function TaxLodgeForm() {
                                                         children: "Permanent Residency"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 649,
+                                                        lineNumber: 629,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2886,19 +2857,19 @@ function TaxLodgeForm() {
                                                         children: "Other"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 650,
+                                                        lineNumber: 630,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 639,
+                                                lineNumber: 619,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 637,
+                                        lineNumber: 617,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2908,7 +2879,7 @@ function TaxLodgeForm() {
                                                 children: "Did your visa change during the tax year?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 635,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2926,7 +2897,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 658,
+                                                                lineNumber: 638,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2934,13 +2905,13 @@ function TaxLodgeForm() {
                                                                 children: "Yes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 666,
+                                                                lineNumber: 646,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 657,
+                                                        lineNumber: 637,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2955,7 +2926,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 669,
+                                                                lineNumber: 649,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2963,25 +2934,25 @@ function TaxLodgeForm() {
                                                                 children: "No"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 677,
+                                                                lineNumber: 657,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 668,
+                                                        lineNumber: 648,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 656,
+                                                lineNumber: 636,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 654,
+                                        lineNumber: 634,
                                         columnNumber: 15
                                     }, this),
                                     formData.visaChanged === 'yes' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2991,7 +2962,7 @@ function TaxLodgeForm() {
                                                 children: "Please provide details"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 684,
+                                                lineNumber: 664,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -3002,13 +2973,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 685,
+                                                lineNumber: 665,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 683,
+                                        lineNumber: 663,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3021,7 +2992,7 @@ function TaxLodgeForm() {
                                                         children: "Date arrived in Australia:"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 697,
+                                                        lineNumber: 677,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3032,13 +3003,13 @@ function TaxLodgeForm() {
                                                         className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 698,
+                                                        lineNumber: 678,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 696,
+                                                lineNumber: 676,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3048,7 +3019,7 @@ function TaxLodgeForm() {
                                                         children: "Date left or will leave Australia:"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 707,
+                                                        lineNumber: 687,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3059,19 +3030,19 @@ function TaxLodgeForm() {
                                                         className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 708,
+                                                        lineNumber: 688,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 706,
+                                                lineNumber: 686,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 695,
+                                        lineNumber: 675,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3081,7 +3052,7 @@ function TaxLodgeForm() {
                                                 children: "Did you leave Australia during the tax year?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 719,
+                                                lineNumber: 699,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3099,7 +3070,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 722,
+                                                                lineNumber: 702,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3107,13 +3078,13 @@ function TaxLodgeForm() {
                                                                 children: "Yes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 730,
+                                                                lineNumber: 710,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 721,
+                                                        lineNumber: 701,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3128,7 +3099,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 733,
+                                                                lineNumber: 713,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3136,25 +3107,25 @@ function TaxLodgeForm() {
                                                                 children: "No"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 741,
+                                                                lineNumber: 721,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 732,
+                                                        lineNumber: 712,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 720,
+                                                lineNumber: 700,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 718,
+                                        lineNumber: 698,
                                         columnNumber: 15
                                     }, this),
                                     formData.leftAustralia === 'yes' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3164,7 +3135,7 @@ function TaxLodgeForm() {
                                                 children: "Please give details of your leave."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 748,
+                                                lineNumber: 728,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -3175,13 +3146,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 749,
+                                                lineNumber: 729,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 747,
+                                        lineNumber: 727,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3191,7 +3162,7 @@ function TaxLodgeForm() {
                                                 children: "Your 'Tax Residency' status"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 760,
+                                                lineNumber: 740,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3209,7 +3180,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 763,
+                                                                lineNumber: 743,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3217,13 +3188,13 @@ function TaxLodgeForm() {
                                                                 children: "An Australian resident for tax purposes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 771,
+                                                                lineNumber: 751,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 762,
+                                                        lineNumber: 742,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3238,7 +3209,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 774,
+                                                                lineNumber: 754,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3246,19 +3217,19 @@ function TaxLodgeForm() {
                                                                 children: "A foreign resident for tax purposes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 782,
+                                                                lineNumber: 762,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 773,
+                                                        lineNumber: 753,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 761,
+                                                lineNumber: 741,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3271,19 +3242,19 @@ function TaxLodgeForm() {
                                                         children: " Work out your tax residency."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 787,
+                                                        lineNumber: 767,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 785,
+                                                lineNumber: 765,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 759,
+                                        lineNumber: 739,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3293,7 +3264,7 @@ function TaxLodgeForm() {
                                                 children: "Which tax residency test you can pass?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 792,
+                                                lineNumber: 772,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3311,7 +3282,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 795,
+                                                                lineNumber: 775,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3319,13 +3290,13 @@ function TaxLodgeForm() {
                                                                 children: "I am able to show that my living and working arrangements were consistent with making Australia my home - the resides test."
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 803,
+                                                                lineNumber: 783,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 794,
+                                                        lineNumber: 774,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3340,7 +3311,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 808,
+                                                                lineNumber: 788,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3348,13 +3319,13 @@ function TaxLodgeForm() {
                                                                 children: "I lived in Australia for more than 183 days in this tax year and can prove that I intend to remain in Australia long-term or permanently, or don't usually live outside of Australia - the 183 day test."
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 816,
+                                                                lineNumber: 796,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 807,
+                                                        lineNumber: 787,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3369,7 +3340,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 821,
+                                                                lineNumber: 801,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3377,19 +3348,19 @@ function TaxLodgeForm() {
                                                                 children: "Both the resides and the 183 day tests"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 829,
+                                                                lineNumber: 809,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 820,
+                                                        lineNumber: 800,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 793,
+                                                lineNumber: 773,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3401,20 +3372,20 @@ function TaxLodgeForm() {
                                                         children: "See the resident test and the 183 day test"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 833,
+                                                        lineNumber: 813,
                                                         columnNumber: 19
                                                     }, this),
                                                     " and study factors ATO considers when determining your residency status for tax purposes."
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 832,
+                                                lineNumber: 812,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 791,
+                                        lineNumber: 771,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3424,7 +3395,7 @@ function TaxLodgeForm() {
                                                 children: "Please upload a photo ID (e.g. driver license)"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 838,
+                                                lineNumber: 818,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3443,7 +3414,7 @@ function TaxLodgeForm() {
                                                                             children: "Upload a file"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                            lineNumber: 846,
+                                                                            lineNumber: 826,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3454,13 +3425,13 @@ function TaxLodgeForm() {
                                                                             onChange: (e)=>handleFileChange(e, setIdFile)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                            lineNumber: 847,
+                                                                            lineNumber: 827,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                    lineNumber: 842,
+                                                                    lineNumber: 822,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3468,13 +3439,13 @@ function TaxLodgeForm() {
                                                                     children: "or drag and drop"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                    lineNumber: 855,
+                                                                    lineNumber: 835,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 841,
+                                                            lineNumber: 821,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3482,18 +3453,18 @@ function TaxLodgeForm() {
                                                             children: "PNG, JPG, PDF up to 10MB"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 857,
+                                                            lineNumber: 837,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                    lineNumber: 840,
+                                                    lineNumber: 820,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 839,
+                                                lineNumber: 819,
                                                 columnNumber: 17
                                             }, this),
                                             idFile && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3501,7 +3472,7 @@ function TaxLodgeForm() {
                                                 children: idFile.name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 861,
+                                                lineNumber: 841,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3509,13 +3480,13 @@ function TaxLodgeForm() {
                                                 children: "Alternatively email your document directly to support@taxlodgeonline.com.au"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 863,
+                                                lineNumber: 843,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 837,
+                                        lineNumber: 817,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3525,7 +3496,7 @@ function TaxLodgeForm() {
                                                 children: "Please upload the photo page of your Passport"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 869,
+                                                lineNumber: 849,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3544,7 +3515,7 @@ function TaxLodgeForm() {
                                                                             children: "Upload a file"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                            lineNumber: 877,
+                                                                            lineNumber: 857,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3555,13 +3526,13 @@ function TaxLodgeForm() {
                                                                             onChange: (e)=>handleFileChange(e, setPassportFile)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                            lineNumber: 878,
+                                                                            lineNumber: 858,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                    lineNumber: 873,
+                                                                    lineNumber: 853,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3569,13 +3540,13 @@ function TaxLodgeForm() {
                                                                     children: "or drag and drop"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                    lineNumber: 886,
+                                                                    lineNumber: 866,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 872,
+                                                            lineNumber: 852,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3583,18 +3554,18 @@ function TaxLodgeForm() {
                                                             children: "PNG, JPG, PDF up to 10MB"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 888,
+                                                            lineNumber: 868,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tax-form/page.tsx",
-                                                    lineNumber: 871,
+                                                    lineNumber: 851,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 870,
+                                                lineNumber: 850,
                                                 columnNumber: 17
                                             }, this),
                                             passportFile && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3602,7 +3573,7 @@ function TaxLodgeForm() {
                                                 children: passportFile.name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 892,
+                                                lineNumber: 872,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3610,13 +3581,13 @@ function TaxLodgeForm() {
                                                 children: "Alternatively email your document directly to support@taxlodgeonline.com.au"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 894,
+                                                lineNumber: 874,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 868,
+                                        lineNumber: 848,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3626,7 +3597,7 @@ function TaxLodgeForm() {
                                                 children: "Have you applied for Australian Permanent Residency?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 900,
+                                                lineNumber: 880,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3644,7 +3615,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 903,
+                                                                lineNumber: 883,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3652,13 +3623,13 @@ function TaxLodgeForm() {
                                                                 children: "Yes"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 911,
+                                                                lineNumber: 891,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 902,
+                                                        lineNumber: 882,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3673,7 +3644,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 914,
+                                                                lineNumber: 894,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3681,25 +3652,25 @@ function TaxLodgeForm() {
                                                                 children: "No"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 922,
+                                                                lineNumber: 902,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 913,
+                                                        lineNumber: 893,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 901,
+                                                lineNumber: 881,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 899,
+                                        lineNumber: 879,
                                         columnNumber: 15
                                     }, this),
                                     formData.prApplied === 'yes' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3709,7 +3680,7 @@ function TaxLodgeForm() {
                                                 children: "The date your PR application was lodged:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 929,
+                                                lineNumber: 909,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3720,13 +3691,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 930,
+                                                lineNumber: 910,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 928,
+                                        lineNumber: 908,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3736,7 +3707,7 @@ function TaxLodgeForm() {
                                                 children: "Your postal address:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 941,
+                                                lineNumber: 921,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3754,7 +3725,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 944,
+                                                                lineNumber: 924,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3762,13 +3733,13 @@ function TaxLodgeForm() {
                                                                 children: "As Above"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 952,
+                                                                lineNumber: 932,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 943,
+                                                        lineNumber: 923,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3783,7 +3754,7 @@ function TaxLodgeForm() {
                                                                 className: "h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 955,
+                                                                lineNumber: 935,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3791,25 +3762,25 @@ function TaxLodgeForm() {
                                                                 children: "Other"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                                lineNumber: 963,
+                                                                lineNumber: 943,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 954,
+                                                        lineNumber: 934,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 942,
+                                                lineNumber: 922,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 940,
+                                        lineNumber: 920,
                                         columnNumber: 15
                                     }, this),
                                     formData.postalSame === 'false' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3823,7 +3794,7 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 970,
+                                                lineNumber: 950,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3835,7 +3806,7 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 978,
+                                                lineNumber: 958,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3851,12 +3822,12 @@ function TaxLodgeForm() {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 988,
+                                                            lineNumber: 968,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 987,
+                                                        lineNumber: 967,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3869,18 +3840,18 @@ function TaxLodgeForm() {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 998,
+                                                            lineNumber: 978,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 997,
+                                                        lineNumber: 977,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 986,
+                                                lineNumber: 966,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3896,12 +3867,12 @@ function TaxLodgeForm() {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 1010,
+                                                            lineNumber: 990,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1009,
+                                                        lineNumber: 989,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3914,24 +3885,24 @@ function TaxLodgeForm() {
                                                             className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tax-form/page.tsx",
-                                                            lineNumber: 1020,
+                                                            lineNumber: 1000,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1019,
+                                                        lineNumber: 999,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1008,
+                                                lineNumber: 988,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 969,
+                                        lineNumber: 949,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3941,7 +3912,7 @@ function TaxLodgeForm() {
                                                 children: "Will you need to lodge a tax return in future?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1034,
+                                                lineNumber: 1014,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -3955,7 +3926,7 @@ function TaxLodgeForm() {
                                                         children: "Select Option"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1041,
+                                                        lineNumber: 1021,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -3963,7 +3934,7 @@ function TaxLodgeForm() {
                                                         children: "Yes"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1042,
+                                                        lineNumber: 1022,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -3971,7 +3942,7 @@ function TaxLodgeForm() {
                                                         children: "No"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1043,
+                                                        lineNumber: 1023,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -3979,25 +3950,25 @@ function TaxLodgeForm() {
                                                         children: "Not sure"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                                        lineNumber: 1044,
+                                                        lineNumber: 1024,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1035,
+                                                lineNumber: 1015,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1033,
+                                        lineNumber: 1013,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                lineNumber: 221,
+                                lineNumber: 201,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4010,7 +3981,7 @@ function TaxLodgeForm() {
                                         children: "Previous"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1050,
+                                        lineNumber: 1030,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4020,19 +3991,19 @@ function TaxLodgeForm() {
                                         children: "Next"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1057,
+                                        lineNumber: 1037,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                lineNumber: 1049,
+                                lineNumber: 1029,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 220,
+                        lineNumber: 200,
                         columnNumber: 11
                     }, this),
                     activeSection === 'income' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$IncomeSection$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -4040,7 +4011,7 @@ function TaxLodgeForm() {
                         onBack: ()=>setActiveSection('personal')
                     }, void 0, false, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 1071,
+                        lineNumber: 1051,
                         columnNumber: 11
                     }, this),
                     activeSection === 'deductions' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4054,7 +4025,7 @@ function TaxLodgeForm() {
                                         children: "Deductions Information"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1087,
+                                        lineNumber: 1067,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4064,7 +4035,7 @@ function TaxLodgeForm() {
                                                 children: "Work-Related Expenses: *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1090,
+                                                lineNumber: 1070,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4076,13 +4047,13 @@ function TaxLodgeForm() {
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1091,
+                                                lineNumber: 1071,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1089,
+                                        lineNumber: 1069,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4092,7 +4063,7 @@ function TaxLodgeForm() {
                                                 children: "Self-Education Expenses:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1101,
+                                                lineNumber: 1081,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4103,13 +4074,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1102,
+                                                lineNumber: 1082,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1100,
+                                        lineNumber: 1080,
                                         columnNumber: 1
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4119,7 +4090,7 @@ function TaxLodgeForm() {
                                                 children: "Charitable Donations:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1112,
+                                                lineNumber: 1092,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4130,13 +4101,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1113,
+                                                lineNumber: 1093,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1111,
+                                        lineNumber: 1091,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4146,7 +4117,7 @@ function TaxLodgeForm() {
                                                 children: "Tax Agent Fees:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1123,
+                                                lineNumber: 1103,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4157,13 +4128,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1124,
+                                                lineNumber: 1104,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1122,
+                                        lineNumber: 1102,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4173,7 +4144,7 @@ function TaxLodgeForm() {
                                                 children: "Other Deductions:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1134,
+                                                lineNumber: 1114,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4184,13 +4155,13 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1135,
+                                                lineNumber: 1115,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1133,
+                                        lineNumber: 1113,
                                         columnNumber: 15
                                     }, this),
                                     Number(formData.otherDeductions) > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4200,7 +4171,7 @@ function TaxLodgeForm() {
                                                 children: "Other Deductions Details:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1146,
+                                                lineNumber: 1126,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -4211,19 +4182,19 @@ function TaxLodgeForm() {
                                                 className: "w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                                lineNumber: 1147,
+                                                lineNumber: 1127,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1145,
+                                        lineNumber: 1125,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                lineNumber: 1086,
+                                lineNumber: 1066,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4236,7 +4207,7 @@ function TaxLodgeForm() {
                                         children: "Previous"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1161,
+                                        lineNumber: 1141,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4245,31 +4216,31 @@ function TaxLodgeForm() {
                                         children: "Submit"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tax-form/page.tsx",
-                                        lineNumber: 1168,
+                                        lineNumber: 1148,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tax-form/page.tsx",
-                                lineNumber: 1160,
+                                lineNumber: 1140,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tax-form/page.tsx",
-                        lineNumber: 1085,
+                        lineNumber: 1065,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tax-form/page.tsx",
-                lineNumber: 217,
+                lineNumber: 197,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tax-form/page.tsx",
-        lineNumber: 192,
+        lineNumber: 172,
         columnNumber: 5
     }, this);
 }

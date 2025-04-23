@@ -77,7 +77,6 @@ export default function TaxLodgeForm() {
   const [activeSection, setActiveSection] = useState<'personal' | 'income' | 'deductions'>('personal');
   const [idFile, setIdFile] = useState<File | null>(null);
   const [passportFile, setPassportFile] = useState<File | null>(null);
-  const [employmentCount, setEmploymentCount] = useState(1);
   const [formData, setFormData] = useState<TaxFormData>({
     taxYear: '',
     originalReturn: '',
@@ -141,29 +140,10 @@ export default function TaxLodgeForm() {
     otherDeductionsDetails: ''
   });
 
-  const handleEmploymentChange = (index: number, e: React.ChangeEvent<HTMLInputElement>) => {
-    const { name, value } = e.target;
-    const updatedDetails = [...formData.employmentDetails];
-    updatedDetails[index] = {
-      ...updatedDetails[index],
-      [name]: value
-    };
-    setFormData(prev => ({
-      ...prev,
-      employmentDetails: updatedDetails
-    }));
-  };
+ 
 
-  const addEmployment = () => {
-    setEmploymentCount(prev => prev + 1);
-    setFormData(prev => ({
-      ...prev,
-      employmentDetails: [
-        ...prev.employmentDetails,
-        { employer: '', income: '', taxWithheld: '' }
-      ]
-    }));
-  };
+  
+  
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>, setFile: React.Dispatch<React.SetStateAction<File | null>>) => {
     if (e.target.files && e.target.files[0]) {
@@ -435,7 +415,7 @@ export default function TaxLodgeForm() {
                 <>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse's Name: *</label>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse&#39;s Name: *</label>
                       <input
                         type="text"
                         name="spouseName"
@@ -446,7 +426,7 @@ export default function TaxLodgeForm() {
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse's DOB: *</label>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse&#39;s DOB: *</label>
                       <input
                         type="date"
                         name="spouseDob"
@@ -459,7 +439,7 @@ export default function TaxLodgeForm() {
                   </div>
 
                   <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse's taxable income: *</label>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">Your spouse&#39;s taxable income: *</label>
                     <input
                       type="text"
                       name="spouseIncome"
@@ -488,7 +468,7 @@ export default function TaxLodgeForm() {
 
               {Number(formData.dependents) > 0 && (
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-1">Children's names and their DOB</label>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Children&#39;s names and their DOB</label>
                   <textarea
                     name="childrenDetails"
                     value={formData.childrenDetails}
@@ -814,7 +794,7 @@ export default function TaxLodgeForm() {
                       className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
                     />
                     <span className="ml-2 text-sm text-gray-700">
-                      I lived in Australia for more than 183 days in this tax year and can prove that I intend to remain in Australia long-term or permanently, or don't usually live outside of Australia - the 183 day test.
+                      I lived in Australia for more than 183 days in this tax year and can prove that I intend to remain in Australia long-term or permanently, or don&#39;t usually live outside of Australia - the 183 day test.
                     </span>
                   </label>
                   <label className="flex items-center">

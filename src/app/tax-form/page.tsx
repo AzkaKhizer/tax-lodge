@@ -737,7 +737,7 @@ export default function TaxLodgeForm() {
               )}
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Your 'Tax Residency' status</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Your &#39;Tax Residency&#39; status</label>
                 <div className="space-y-2">
                   <label className="flex items-center">
                     <input 

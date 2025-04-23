@@ -1630,7 +1630,6 @@ function DeductionsSection({ onNext, onBack }) {
     const [expenseDetailsUnder300, setExpenseDetailsUnder300] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
     // Work from home details
     const [workedFromHome, setWorkedFromHome] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(null);
-    const [workFromHomeHours, setWorkFromHomeHours] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
     // Non-work related expenses
     const [paidTaxAgent, setPaidTaxAgent] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const [taxAgentAmount, setTaxAgentAmount] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
@@ -3153,7 +3152,7 @@ function DeductionsSection({ onNext, onBack }) {
         columnNumber: 5
     }, this);
 }
-_s(DeductionsSection, "xmb6/MpCRn3KE/0YJHrAOgc9qCM=");
+_s(DeductionsSection, "EnBssFv701bf//x5kUSFNcTH89E=");
 _c = DeductionsSection;
 var _c;
 __turbopack_context__.k.register(_c, "DeductionsSection");

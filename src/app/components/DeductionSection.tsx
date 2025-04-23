@@ -21,7 +21,7 @@ export default function DeductionsSection({ onNext, onBack }: DeductionsSectionP
   
   // Work from home details
   const [workedFromHome, setWorkedFromHome] = useState<boolean | null>(null);
-  const [workFromHomeHours, setWorkFromHomeHours] = useState('');
+  
   
   // Non-work related expenses
   const [paidTaxAgent, setPaidTaxAgent] = useState(false);

@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import IncomeSection from '../components/IncomeSection';
+import DeductionsSection from '../components/DeductionSection';
 
 
 interface EmploymentDetail {
@@ -74,7 +75,7 @@ interface TaxFormData {
 }
 
 export default function TaxLodgeForm() {
-  const [activeSection, setActiveSection] = useState<'personal' | 'income' | 'deductions'>('personal');
+  const [activeSection, setActiveSection] = useState<'personal' | 'income' | 'deductions' | 'submit' >('personal');
   const [idFile, setIdFile] = useState<File | null>(null);
   const [passportFile, setPassportFile] = useState<File | null>(null);
   const [formData, setFormData] = useState<TaxFormData>({
@@ -191,6 +192,12 @@ export default function TaxLodgeForm() {
           className={`px-4 py-2 font-medium ${activeSection === 'deductions' ? 'text-blue-600 border-b-2 border-blue-600' : 'text-gray-500'}`}
         >
           Deductions
+        </button>
+        <button 
+          onClick={() => setActiveSection('submit')}
+          className={`px-4 py-2 font-medium ${activeSection === 'submit' ? 'text-blue-600 border-b-2 border-blue-600' : 'text-gray-500'}`}
+        >
+          Submit
         </button>
       </div>
 
@@ -1062,98 +1069,13 @@ export default function TaxLodgeForm() {
 
         {/* Deductions Section */}
         {activeSection === 'deductions' && (
-          <div className="space-y-6">
-            <div className="space-y-4">
-              <h2 className="text-xl font-semibold text-gray-700">Deductions Information</h2>
-              
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Work-Related Expenses: *</label>
-                <input
-                  type="number"
-                  name="workRelatedExpenses"
-                  value={formData.workRelatedExpenses}
-                  onChange={handleChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                  required
-                />
-              </div>
-<div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Self-Education Expenses:</label>
-                <input
-                  type="number"
-                  name="selfEducationExpenses"
-                  value={formData.selfEducationExpenses}
-                  onChange={handleChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                />
-              </div>
-
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Charitable Donations:</label>
-                <input
-                  type="number"
-                  name="charitableDonations"
-                  value={formData.charitableDonations}
-                  onChange={handleChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                />
-              </div>
-
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Tax Agent Fees:</label>
-                <input
-                  type="number"
-                  name="taxAgentFees"
-                  value={formData.taxAgentFees}
-                  onChange={handleChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                />
-              </div>
-
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Other Deductions:</label>
-                <input
-                  type="number"
-                  name="otherDeductions"
-                  value={formData.otherDeductions}
-                  onChange={handleChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                />
-              </div>
-
-              {Number(formData.otherDeductions) > 0 && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-1">Other Deductions Details:</label>
-                  <textarea
-                    name="otherDeductionsDetails"
-                    value={formData.otherDeductionsDetails}
-                    onChange={handleChange}
-                    rows={3}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
-                  />
-                </div>
-              )}
-      
-
-            </div>
-
-            <div className="flex justify-between pt-6">
-              <button
-                type="button"
-                onClick={() => setActiveSection('income')}
-                className="px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
-              >
-                Previous
-              </button>
-              <button
-                type="submit"
-                className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
-              >
-                Submit
-              </button>
-            </div>
-          </div>
+          <DeductionsSection 
+            onNext={() => setActiveSection('submit')}
+            onBack={() => setActiveSection('income')}
+            
+          />
         )}
+        
       </form>
     </div>
   );
